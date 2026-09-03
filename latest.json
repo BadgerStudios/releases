@@ -1,0 +1,8 @@
+{
+  "earthai-jarvis": {"version": "1.0.0", "tag": "earthai-jarvis-v1.0.0", "files": ["https://github.com/BadgerStudios/releases/releases/download/earthai-jarvis-v1.0.0/EarthAIJarvis-1.0.0.jar", "https://github.com/BadgerStudios/releases/releases/download/earthai-jarvis-v1.0.0/jarvis-cli.sh"]},
+  "earthai-cmdlog": {"version": "1.2.1", "tag": "earthai-cmdlog-v1.2.1", "files": ["https://github.com/BadgerStudios/releases/releases/download/earthai-cmdlog-v1.2.1/EarthAICommandLog-1.2.1.jar"]},
+  "earthai-portal": {"version": "1.0.0", "tag": "earthai-portal-v1.0.0", "files": ["https://github.com/BadgerStudios/releases/releases/download/earthai-portal-v1.0.0/EarthAIPortal-1.0.0.jar"]},
+  "earthai-pets": {"version": "1.1.0", "tag": "earthai-pets-v1.1.0", "files": ["https://github.com/BadgerStudios/releases/releases/download/earthai-pets-v1.1.0/EarthAIPets-1.1.0.jar", "https://github.com/BadgerStudios/releases/releases/download/earthai-pets-v1.1.0/EarthAIPets-1.1.0-itemsadder-pack.zip"]},
+  "earthai-mining": {"version": "1.0.0", "tag": "earthai-mining-v1.0.0", "files": ["https://github.com/BadgerStudios/releases/releases/download/earthai-mining-v1.0.0/EarthAIMining-1.0.0.jar"]},
+  "earthai-android": {"version": "1.0.0", "tag": "earthai-android-v1.0.0", "files": ["https://github.com/BadgerStudios/releases/releases/download/earthai-android-v1.0.0/EarthAI-1.0.0.apk"]}
+}
