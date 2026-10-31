@@ -1,0 +1,13 @@
+{
+ "version": "0.5.0+36",
+ "manifest": "manifests/0.5.0-b36.json",
+ "created": "2026-10-31T12:50:57",
+ "notes": "Ship systems: power distribution boards with breakers and load shedding, hinged access panels and floor hatches, touch screens (use on foot, middle mouse focus mode in the cockpit), comms page with hailing, nav screen destinations. Plus: hull materials, space-only weight limit, 14 ship weapons with EMP/distortion/melt damage, engine plumes, tinted and one-way glass, cockpit view (F4) with live dash screens, verified airlocks, hangar with traffic control.",
+ "totalBytes": 9058958742,
+ "launcher": {
+  "version": "1.0.1",
+  "size": 82228450,
+  "sha256": "f34b080a2f7936f046cd871c8ed4ba48a110ce87530af44db3ef4bb6bee01df1",
+  "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/DeckplateLauncher-Setup-1.0.1.exe"
+ }
+}
