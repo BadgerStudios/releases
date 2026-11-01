@@ -1,13 +1,13 @@
 {
- "version": "0.5.0+41",
- "manifest": "manifests/0.5.0-b41.json",
- "created": "2026-11-01T01:45:37",
- "notes": "Player stations: BUILD > NEW STATION puts a station core in hand. New Station parts: hangar doors (any number; they lift open by themselves for ships allowed through your doors and shut once the way is clear), shop counter (your own shop for visitors), medbay bed (heals). Ships docked at a station or parked in its hangar bay get refuel, repair and rearm. Refineries, shipyards and other machines can be built on station decks. Windows have their own builder category. Base panel lists stations nearby. Starter corridor windows now look out at the planet.",
- "totalBytes": 11290731634,
+ "version": "0.5.0+42",
+ "manifest": "manifests/0.5.0-b42.json",
+ "created": "2026-11-01T03:27:47",
+ "notes": "Feel pass: the mouse wheel scrolls the hotbar (items in slots 4-6 are used with left click). Walk (Alt), run and sprint (Shift), with walk/run animations matched to ground speed so feet stay planted, plus jump take-off and landing. F4 toggles first person anywhere. Hold F for interaction mode: a cursor, hover labels, click to use doors, consoles and more; click a console's screen to focus on it and press its rows directly. Tap F works as before.",
+ "totalBytes": 11290799650,
  "launcher": {
   "version": "1.0.1",
   "size": 82228450,
   "sha256": "f34b080a2f7936f046cd871c8ed4ba48a110ce87530af44db3ef4bb6bee01df1",
-  "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b41/DeckplateLauncher-Setup-1.0.1.exe"
+  "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b42/DeckplateLauncher-Setup-1.0.1.exe"
  }
 }
