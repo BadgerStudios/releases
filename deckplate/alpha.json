@@ -1,13 +1,13 @@
 {
- "version": "0.5.0+40",
- "manifest": "manifests/0.5.0-b40.json",
- "created": "2026-11-01T01:51:25",
- "notes": "New captains wake in a starter station in orbit: window on the planet, a shuttle down to the trade post (and back up). Character creator on first launch. Main world cleared. MetaHuman townsfolk and raiders. Frontier bases with shields, turrets, levels, raids, offline raiding. Water parts. Ship dealer. Clothing colours. First-person body. Gamepad. Player name tags (staff roles). In-game editor: station corridor pieces and props, save named blueprints with pictures. Pictures for saved designs and guns.",
- "totalBytes": 11290681143,
+ "version": "0.5.0+41",
+ "manifest": "manifests/0.5.0-b41.json",
+ "created": "2026-11-01T01:45:37",
+ "notes": "Player stations: BUILD > NEW STATION puts a station core in hand. New Station parts: hangar doors (any number; they lift open by themselves for ships allowed through your doors and shut once the way is clear), shop counter (your own shop for visitors), medbay bed (heals). Ships docked at a station or parked in its hangar bay get refuel, repair and rearm. Refineries, shipyards and other machines can be built on station decks. Windows have their own builder category. Base panel lists stations nearby. Starter corridor windows now look out at the planet.",
+ "totalBytes": 11290731634,
  "launcher": {
   "version": "1.0.1",
   "size": 82228450,
   "sha256": "f34b080a2f7936f046cd871c8ed4ba48a110ce87530af44db3ef4bb6bee01df1",
-  "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b40/DeckplateLauncher-Setup-1.0.1.exe"
+  "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b41/DeckplateLauncher-Setup-1.0.1.exe"
  }
 }
