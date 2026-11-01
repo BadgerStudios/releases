@@ -1,13 +1,13 @@
 {
- "version": "0.5.0+37",
- "manifest": "manifests/0.5.0-b37.json",
- "created": "2026-10-31T20:58:29",
- "notes": "Character creator: play as a MetaHuman. Pause menu > CHARACTER: pick one of 8 bases, shape the face (23 sliders: jaw, chin, cheekbones, brow, eyes, nose, mouth, ears) and body (height, build, shoulders, head, legs, arms, torso, neck), pick hair, brows, beard and moustache (about 32 styles fitted to every face) and dye the hair. Your look is saved with your profile and seen by other players online. Walk, run, idle and jump carry over to the new body.",
- "totalBytes": 11308036217,
+ "version": "0.5.0+40",
+ "manifest": "manifests/0.5.0-b40.json",
+ "created": "2026-11-01T01:51:25",
+ "notes": "New captains wake in a starter station in orbit: window on the planet, a shuttle down to the trade post (and back up). Character creator on first launch. Main world cleared. MetaHuman townsfolk and raiders. Frontier bases with shields, turrets, levels, raids, offline raiding. Water parts. Ship dealer. Clothing colours. First-person body. Gamepad. Player name tags (staff roles). In-game editor: station corridor pieces and props, save named blueprints with pictures. Pictures for saved designs and guns.",
+ "totalBytes": 11290681143,
  "launcher": {
   "version": "1.0.1",
   "size": 82228450,
   "sha256": "f34b080a2f7936f046cd871c8ed4ba48a110ce87530af44db3ef4bb6bee01df1",
-  "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b37/DeckplateLauncher-Setup-1.0.1.exe"
+  "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b40/DeckplateLauncher-Setup-1.0.1.exe"
  }
 }
