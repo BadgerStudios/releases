@@ -1,13 +1,13 @@
 {
- "version": "0.5.0+42",
- "manifest": "manifests/0.5.0-b42.json",
- "created": "2026-11-01T03:27:47",
- "notes": "Feel pass: the mouse wheel scrolls the hotbar (items in slots 4-6 are used with left click). Walk (Alt), run and sprint (Shift), with walk/run animations matched to ground speed so feet stay planted, plus jump take-off and landing. F4 toggles first person anywhere. Hold F for interaction mode: a cursor, hover labels, click to use doors, consoles and more; click a console's screen to focus on it and press its rows directly. Tap F works as before.",
- "totalBytes": 11290799650,
+ "version": "0.5.0+43",
+ "manifest": "manifests/0.5.0-b43.json",
+ "created": "2026-11-01T15:37:21",
+ "notes": "Builder overhaul: BASE / SHIP / STATION tabs, each with its own parts, start button and status. Station modules: corridors (straight, corner, T, cross), end caps, window cap, airlock, room, observation room, docking arm, hangar bay, power room and solar array - whole sections in one click on a 4 m grid, so they meet doorway to doorway. Your saved designs can be stamped the same way. Stations and bases run one power grid: no cables to lay. Ship consoles: the screen now faces its chair, clean gauges, and screen focus hides your own arms.",
+ "totalBytes": 11291144675,
  "launcher": {
   "version": "1.0.1",
   "size": 82228450,
   "sha256": "f34b080a2f7936f046cd871c8ed4ba48a110ce87530af44db3ef4bb6bee01df1",
-  "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b42/DeckplateLauncher-Setup-1.0.1.exe"
+  "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b43/DeckplateLauncher-Setup-1.0.1.exe"
  }
 }
