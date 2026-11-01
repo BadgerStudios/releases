@@ -1,13 +1,13 @@
 {
- "version": "0.5.0+43",
- "manifest": "manifests/0.5.0-b43.json",
- "created": "2026-11-01T15:37:21",
- "notes": "Builder overhaul: BASE / SHIP / STATION tabs, each with its own parts, start button and status. Station modules: corridors (straight, corner, T, cross), end caps, window cap, airlock, room, observation room, docking arm, hangar bay, power room and solar array - whole sections in one click on a 4 m grid, so they meet doorway to doorway. Your saved designs can be stamped the same way. Stations and bases run one power grid: no cables to lay. Ship consoles: the screen now faces its chair, clean gauges, and screen focus hides your own arms.",
- "totalBytes": 11291144675,
+ "version": "0.5.0+45",
+ "manifest": "manifests/0.5.0-b45.json",
+ "created": "2026-11-01T17:23:40",
+ "notes": "Station building in full: modules snap doorway to doorway, air leaks shown red, tilt and roll modules, pick a whole module, seven new modules (stairwell, promenade, cargo bay, crew quarters, reactor room, small hangar, detailed corridor), stations grow sections, station space, till and upkeep, raids on unshielded stations, repaint by kind, re-centre the grid, design ghosts and design pictures.",
+ "totalBytes": 11291257585,
  "launcher": {
   "version": "1.0.1",
   "size": 82228450,
   "sha256": "f34b080a2f7936f046cd871c8ed4ba48a110ce87530af44db3ef4bb6bee01df1",
-  "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b43/DeckplateLauncher-Setup-1.0.1.exe"
+  "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b45/DeckplateLauncher-Setup-1.0.1.exe"
  }
 }
