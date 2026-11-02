@@ -1,13 +1,13 @@
 {
- "version": "0.5.0+46",
- "manifest": "manifests/0.5.0-b46.json",
- "created": "2026-11-02T13:26:54",
- "notes": "Social and store: friends, groups, guilds with tags, messages for offline players, chat in every language and script with optional auto-translation, a credits store for suit skins and paint packs, blueprints of picked pieces, green/orange/red build holograms that check the whole structure, and a build advisor that runs missing fuel, coolant, power and data lines, caps openings to space and suggests what to build next.",
- "totalBytes": 11291540947,
+ "version": "0.5.0+47",
+ "manifest": "manifests/0.5.0-b47.json",
+ "created": "2026-11-02T16:33:35",
+ "notes": "Every ship system is a part now: gunner, engineer, damage-control and navigator stations that have to be manned, magazines and autoloaders for ballistic guns (which hit harder), capacitors for energy guns, decoy launchers, ECM, repair drones, autopilot, coolant pumps, escape pods, lockers, fabricator, lift, galley, washroom, respawn pod, oxygen tank, tractor beam, mining laser, salvage arm, wings, fins and control surfaces that change flight in air, more tanks, gear and batteries. The hologram shows what a part will connect to and what it changes, auto-connects it, and warns about heat, exhaust, blocked guns, doors without floors and thrust off balance.",
+ "totalBytes": 11291654370,
  "launcher": {
   "version": "1.0.1",
   "size": 82228450,
   "sha256": "f34b080a2f7936f046cd871c8ed4ba48a110ce87530af44db3ef4bb6bee01df1",
-  "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b46/DeckplateLauncher-Setup-1.0.1.exe"
+  "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b47/DeckplateLauncher-Setup-1.0.1.exe"
  }
 }
