@@ -1,13 +1,13 @@
 {
- "version": "0.5.0+45",
- "manifest": "manifests/0.5.0-b45.json",
- "created": "2026-11-01T17:23:40",
- "notes": "Station building in full: modules snap doorway to doorway, air leaks shown red, tilt and roll modules, pick a whole module, seven new modules (stairwell, promenade, cargo bay, crew quarters, reactor room, small hangar, detailed corridor), stations grow sections, station space, till and upkeep, raids on unshielded stations, repaint by kind, re-centre the grid, design ghosts and design pictures.",
- "totalBytes": 11291257585,
+ "version": "0.5.0+46",
+ "manifest": "manifests/0.5.0-b46.json",
+ "created": "2026-11-02T13:26:54",
+ "notes": "Social and store: friends, groups, guilds with tags, messages for offline players, chat in every language and script with optional auto-translation, a credits store for suit skins and paint packs, blueprints of picked pieces, green/orange/red build holograms that check the whole structure, and a build advisor that runs missing fuel, coolant, power and data lines, caps openings to space and suggests what to build next.",
+ "totalBytes": 11291540947,
  "launcher": {
   "version": "1.0.1",
   "size": 82228450,
   "sha256": "f34b080a2f7936f046cd871c8ed4ba48a110ce87530af44db3ef4bb6bee01df1",
-  "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b45/DeckplateLauncher-Setup-1.0.1.exe"
+  "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b46/DeckplateLauncher-Setup-1.0.1.exe"
  }
 }
