@@ -1,0 +1,4628 @@
+{
+ "version": "0.5.0+48",
+ "channel": "alpha",
+ "created": "2026-11-02T18:47:39",
+ "notes": "Button panels: 4- and 8-button panels and a switch, wired (a data line from each button) or programmed (builder: PROGRAM AIMED) to doors, joints, lights, breakers, the anchor, hangar doors, seal and other panels; lights can be switched off by hand; doors, lights and boards gained a data socket.",
+ "totalBytes": 11291737580,
+ "files": [
+  {
+   "path": "Deckplate.exe",
+   "size": 214528,
+   "sha256": "a0a9e09e7431736636631bd2bc49ea01a47636ec04480b1f972c32b5daa33340",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/a0a9e09e7431736636631bd2bc49ea01.bin",
+     "size": 214528,
+     "sha256": "a0a9e09e7431736636631bd2bc49ea01a47636ec04480b1f972c32b5daa33340"
+    }
+   ]
+  },
+  {
+   "path": "Manifest_DebugFiles_Win64.txt",
+   "size": 435,
+   "sha256": "344ffcea8a897fdf05948bbdc2c24ef0abf792aa4d9ce03b33aa19ad70797f11",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b48/344ffcea8a897fdf05948bbdc2c24ef0.bin",
+     "size": 435,
+     "sha256": "344ffcea8a897fdf05948bbdc2c24ef0abf792aa4d9ce03b33aa19ad70797f11"
+    }
+   ]
+  },
+  {
+   "path": "Manifest_NonUFSFiles_Win64.txt",
+   "size": 3957,
+   "sha256": "8daea3900222eab18ef1ec29b875edc7afaf16e1902c5a584d22c008ae557dea",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b48/8daea3900222eab18ef1ec29b875edc7.bin",
+     "size": 3957,
+     "sha256": "8daea3900222eab18ef1ec29b875edc7afaf16e1902c5a584d22c008ae557dea"
+    }
+   ]
+  },
+  {
+   "path": "Manifest_UFSFiles_Win64.txt",
+   "size": 1816244,
+   "sha256": "39b8f67e5da2539130b35018fb9f506a0fcf276cf0f4f63e8f90cbc3ac033fb9",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b48/39b8f67e5da2539130b35018fb9f506a.bin",
+     "size": 1816244,
+     "sha256": "39b8f67e5da2539130b35018fb9f506a0fcf276cf0f4f63e8f90cbc3ac033fb9"
+    }
+   ]
+  },
+  {
+   "path": "NOTICES.txt",
+   "size": 111,
+   "sha256": "ba49ae5586f817b36a2772269f71f899cb1f54b5f2720fad951319edd5e140b8",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/ba49ae5586f817b36a2772269f71f899.bin",
+     "size": 111,
+     "sha256": "ba49ae5586f817b36a2772269f71f899cb1f54b5f2720fad951319edd5e140b8"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Binaries/Win64/boost_atomic-mt-x64.dll",
+   "size": 28088,
+   "sha256": "098084d87f82323e8e908f12f61446a5c23535ea5c921ca187e3ffe6dab72481",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/098084d87f82323e8e908f12f61446a5.bin",
+     "size": 28088,
+     "sha256": "098084d87f82323e8e908f12f61446a5c23535ea5c921ca187e3ffe6dab72481"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Binaries/Win64/boost_chrono-mt-x64.dll",
+   "size": 45496,
+   "sha256": "f26877836940d40d5fbb31f8fca40d8d62ef166ee8508442691857a232746077",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/f26877836940d40d5fbb31f8fca40d8d.bin",
+     "size": 45496,
+     "sha256": "f26877836940d40d5fbb31f8fca40d8d62ef166ee8508442691857a232746077"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Binaries/Win64/boost_container-mt-x64.dll",
+   "size": 65464,
+   "sha256": "0215ef9a551693fbcd7543ca093576fd4dfc5066488ac5d549b60809c3df119e",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/0215ef9a551693fbcd7543ca093576fd.bin",
+     "size": 65464,
+     "sha256": "0215ef9a551693fbcd7543ca093576fd4dfc5066488ac5d549b60809c3df119e"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Binaries/Win64/boost_filesystem-mt-x64.dll",
+   "size": 176568,
+   "sha256": "ac72faea3e1b75efeea0157821384c118e9123050eb77b4b44f32ea68942af01",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/ac72faea3e1b75efeea0157821384c11.bin",
+     "size": 176568,
+     "sha256": "ac72faea3e1b75efeea0157821384c118e9123050eb77b4b44f32ea68942af01"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Binaries/Win64/boost_graph-mt-x64.dll",
+   "size": 329656,
+   "sha256": "f4f1edd6a168d07700fb4799606957e6fb3c4574f8b42b03ff91c47b99c729d5",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/f4f1edd6a168d07700fb4799606957e6.bin",
+     "size": 329656,
+     "sha256": "f4f1edd6a168d07700fb4799606957e6fb3c4574f8b42b03ff91c47b99c729d5"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Binaries/Win64/boost_iostreams-mt-x64.dll",
+   "size": 58808,
+   "sha256": "43bb5719cbb92513430753074e890b20e32e34842fe79766e2ca0fd0651955b9",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/43bb5719cbb92513430753074e890b20.bin",
+     "size": 58808,
+     "sha256": "43bb5719cbb92513430753074e890b20e32e34842fe79766e2ca0fd0651955b9"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Binaries/Win64/boost_program_options-mt-x64.dll",
+   "size": 374712,
+   "sha256": "4b2ff1c3c165e2a3db3690dd289c717bd02225adc67b36d7f6cca255ff3ffef4",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/4b2ff1c3c165e2a3db3690dd289c717b.bin",
+     "size": 374712,
+     "sha256": "4b2ff1c3c165e2a3db3690dd289c717bd02225adc67b36d7f6cca255ff3ffef4"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Binaries/Win64/boost_python311-mt-x64.dll",
+   "size": 207800,
+   "sha256": "33bebdc83e18473085d33c5aece0a34a691338b8f9aa4b17aa6764f72fd3bc98",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/33bebdc83e18473085d33c5aece0a34a.bin",
+     "size": 207800,
+     "sha256": "33bebdc83e18473085d33c5aece0a34a691338b8f9aa4b17aa6764f72fd3bc98"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Binaries/Win64/boost_random-mt-x64.dll",
+   "size": 40888,
+   "sha256": "7f359971cb39817ddbb690a7b61ed84c25a9e69d4b9b9fd3a952331bc95b9db5",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/7f359971cb39817ddbb690a7b61ed84c.bin",
+     "size": 40888,
+     "sha256": "7f359971cb39817ddbb690a7b61ed84c25a9e69d4b9b9fd3a952331bc95b9db5"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Binaries/Win64/boost_regex-mt-x64.dll",
+   "size": 251832,
+   "sha256": "5af713fc06be8a074c276643c82f828abd81e713173a5732ae235dee777d9510",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/5af713fc06be8a074c276643c82f828a.bin",
+     "size": 251832,
+     "sha256": "5af713fc06be8a074c276643c82f828abd81e713173a5732ae235dee777d9510"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Binaries/Win64/boost_system-mt-x64.dll",
+   "size": 20408,
+   "sha256": "b079a59daa688b3a564f32de2998887d874383cb62a3a1e87de49c45f66e3b04",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/b079a59daa688b3a564f32de2998887d.bin",
+     "size": 20408,
+     "sha256": "b079a59daa688b3a564f32de2998887d874383cb62a3a1e87de49c45f66e3b04"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Binaries/Win64/boost_thread-mt-x64.dll",
+   "size": 85432,
+   "sha256": "a04301a8f1a5b781c75ee9adf29b64a9b12b674de1c88f936d798d43939c3def",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/a04301a8f1a5b781c75ee9adf29b64a9.bin",
+     "size": 85432,
+     "sha256": "a04301a8f1a5b781c75ee9adf29b64a9b12b674de1c88f936d798d43939c3def"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Binaries/Win64/Deckplate.exe",
+   "size": 352411136,
+   "sha256": "6be5d4b4e2a00ac87daead52f721563bbc34b8ef5a0202ca16734a4105f87336",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b48/6be5d4b4e2a00ac87daead52f721563b.bin",
+     "size": 352411136,
+     "sha256": "6be5d4b4e2a00ac87daead52f721563bbc34b8ef5a0202ca16734a4105f87336"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Binaries/Win64/tbb12.dll",
+   "size": 342456,
+   "sha256": "c489b6bd4dd2be18d4f8778e3f86caa7672ec8a206c9a54228b3bb60e2923f76",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/c489b6bd4dd2be18d4f8778e3f86caa7.bin",
+     "size": 342456,
+     "sha256": "c489b6bd4dd2be18d4f8778e3f86caa7672ec8a206c9a54228b3bb60e2923f76"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Binaries/Win64/tbbmalloc.dll",
+   "size": 117176,
+   "sha256": "aca208101bba1e440e6fae6580eedd45508ec405c9674063baf7ca23d29316bd",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/aca208101bba1e440e6fae6580eedd45.bin",
+     "size": 117176,
+     "sha256": "aca208101bba1e440e6fae6580eedd45508ec405c9674063baf7ca23d29316bd"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Binaries/Win64/D3D12/x64/D3D12Core.dll",
+   "size": 4831768,
+   "sha256": "f0cbdba3043bc30e2a17dfd7d6c05e61c9c4098eb1d5ee8ccd2ab3f4696e8e20",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/f0cbdba3043bc30e2a17dfd7d6c05e61.bin",
+     "size": 4831768,
+     "sha256": "f0cbdba3043bc30e2a17dfd7d6c05e61c9c4098eb1d5ee8ccd2ab3f4696e8e20"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Binaries/Win64/D3D12/x64/d3d12SDKLayers.dll",
+   "size": 4943344,
+   "sha256": "180a630861dc88d26db517da787009edf75e4c83309b819814b84b86f8db36c1",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/180a630861dc88d26db517da787009ed.bin",
+     "size": 4943344,
+     "sha256": "180a630861dc88d26db517da787009edf75e4c83309b819814b84b86f8db36c1"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Binaries/Win64/DML/x64/DirectML.dll",
+   "size": 18538488,
+   "sha256": "4e357e48c3fb00e5ac868f2b33ba5576873c013349e2cc1d7a9be0071253ac62",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/4e357e48c3fb00e5ac868f2b33ba5576.bin",
+     "size": 18538488,
+     "sha256": "4e357e48c3fb00e5ac868f2b33ba5576873c013349e2cc1d7a9be0071253ac62"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/global.ucas",
+   "size": 3644512,
+   "sha256": "a33cb068977990da934062d578495ed51d6ba7c6c929625d7a49efc63331a4bb",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b48/a33cb068977990da934062d578495ed5.bin",
+     "size": 3644512,
+     "sha256": "a33cb068977990da934062d578495ed51d6ba7c6c929625d7a49efc63331a4bb"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/global.utoc",
+   "size": 866,
+   "sha256": "2af21ba3c2a1fb92e09f8a90be1e452b130034a41a925ecf20cd759d4da51d9a",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b48/2af21ba3c2a1fb92e09f8a90be1e452b.bin",
+     "size": 866,
+     "sha256": "2af21ba3c2a1fb92e09f8a90be1e452b130034a41a925ecf20cd759d4da51d9a"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk0-Windows.pak",
+   "size": 12553609,
+   "sha256": "502c68687eb3d7ee7cc8a57f2bc18ce2004a698373c896cc5a0e54fa5c18c3e1",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b48/502c68687eb3d7ee7cc8a57f2bc18ce2.bin",
+     "size": 12553609,
+     "sha256": "502c68687eb3d7ee7cc8a57f2bc18ce2004a698373c896cc5a0e54fa5c18c3e1"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk0-Windows.ucas",
+   "size": 3203200560,
+   "sha256": "5cdd38c9aefd0c674fb02555d52044fc73e99e674f45a61feeafc80344f753bf",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b48/ebc0ca8f1c9fcb1f641ec0116bab6540.bin",
+     "size": 398458880,
+     "sha256": "ebc0ca8f1c9fcb1f641ec0116bab6540e12747bd3b68bd76c8b81909ee29e1a5"
+    },
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b46/b0a12603c32556a96c04c9d2df10c34c.bin",
+     "size": 398458880,
+     "sha256": "b0a12603c32556a96c04c9d2df10c34cecf5b2feb81ad91902c1fcaced61c46e"
+    },
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b46/f7010a8a22f5fc0aa9b796a13b48e05d.bin",
+     "size": 398458880,
+     "sha256": "f7010a8a22f5fc0aa9b796a13b48e05d7de7e3afe9e249ff972b9d70d4730288"
+    },
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b46/161507e64e79bbb43f3719146bc58d3e.bin",
+     "size": 398458880,
+     "sha256": "161507e64e79bbb43f3719146bc58d3e5b7b0aebb4fb7be5543a8c9e3f99de56"
+    },
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b46/06ad130c5f22195599ce0259e0cddd22.bin",
+     "size": 398458880,
+     "sha256": "06ad130c5f22195599ce0259e0cddd22325bf420da64e08eb99971042be3262c"
+    },
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b46/fb72ef381493d7ef30add434c8cf30bd.bin",
+     "size": 398458880,
+     "sha256": "fb72ef381493d7ef30add434c8cf30bd83275c713eb5e544b7fab6599463d619"
+    },
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b46/24e1f024ce9f5619ef766d040e878f46.bin",
+     "size": 398458880,
+     "sha256": "24e1f024ce9f5619ef766d040e878f467f9840701bed4eba32c7dc76098993b5"
+    },
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b46/6a09d7dca29f6d5670eecfd840cd87a4.bin",
+     "size": 398458880,
+     "sha256": "6a09d7dca29f6d5670eecfd840cd87a4c2c24ec1f120445cc8d7c05d9311f012"
+    },
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b46/a6cec7e69825a8aeebd550ca8b2fa313.bin",
+     "size": 15529520,
+     "sha256": "a6cec7e69825a8aeebd550ca8b2fa313ad2e543654798e1a6d0c26d64729798a"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk0-Windows.utoc",
+   "size": 1782711,
+   "sha256": "4199ba9291e1b3bba53803fedeb124116a872344e6941515d4cb7c99ba82f986",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b48/4199ba9291e1b3bba53803fedeb12411.bin",
+     "size": 1782711,
+     "sha256": "4199ba9291e1b3bba53803fedeb124116a872344e6941515d4cb7c99ba82f986"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk0optional-Windows.pak",
+   "size": 339,
+   "sha256": "56648812f9c9088a8bcebfa3a51e62a652112f8c493fbe7a3e2257660a7e1538",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b37/56648812f9c9088a8bcebfa3a51e62a6.bin",
+     "size": 339,
+     "sha256": "56648812f9c9088a8bcebfa3a51e62a652112f8c493fbe7a3e2257660a7e1538"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk0optional-Windows.ucas",
+   "size": 52352,
+   "sha256": "1763b86ed8f1f899e9b5174147f2094ac151d7034e0df7604a00b05cb0cba27a",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b37/1763b86ed8f1f899e9b5174147f2094a.bin",
+     "size": 52352,
+     "sha256": "1763b86ed8f1f899e9b5174147f2094ac151d7034e0df7604a00b05cb0cba27a"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk0optional-Windows.utoc",
+   "size": 6627,
+   "sha256": "3812c50636809bda3c29496491b2df311f638c02380b6bc21d845a0764d10a8b",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b37/3812c50636809bda3c29496491b2df31.bin",
+     "size": 6627,
+     "sha256": "3812c50636809bda3c29496491b2df311f638c02380b6bc21d845a0764d10a8b"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk1-Windows.pak",
+   "size": 1000,
+   "sha256": "47572f9b7ebecac7e50bd4488f99f171c6becf5f8b3dd2a323c3c08984ed1dd4",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/47572f9b7ebecac7e50bd4488f99f171.bin",
+     "size": 1000,
+     "sha256": "47572f9b7ebecac7e50bd4488f99f171c6becf5f8b3dd2a323c3c08984ed1dd4"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk1-Windows.ucas",
+   "size": 2369083456,
+   "sha256": "67ff3723b2380a752bc877542e4d3c87fee6dbd3ff1aceeb4b527eb597b10db3",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b38/c5c20b03af78c990f56f4d4b8009bed0.bin",
+     "size": 398458880,
+     "sha256": "c5c20b03af78c990f56f4d4b8009bed0ace3c6b70cf9dd40c27d3ca8c01ac3dd"
+    },
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b38/13c9023d9b044d663654cc43c750319e.bin",
+     "size": 398458880,
+     "sha256": "13c9023d9b044d663654cc43c750319ee92f685f1983fcebab0fb959efa717d2"
+    },
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b38/71738609c29816d3209c501bd1500812.bin",
+     "size": 398458880,
+     "sha256": "71738609c29816d3209c501bd1500812ce70580b5fa738299fd315f4226b3e90"
+    },
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b40/c488cc172d707a9d457351c74b919d85.bin",
+     "size": 398458880,
+     "sha256": "c488cc172d707a9d457351c74b919d8571566488475cf295ba2e51fca50f4326"
+    },
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b40/53475f3b5293c36826ab45661aa7bd60.bin",
+     "size": 398458880,
+     "sha256": "53475f3b5293c36826ab45661aa7bd6079f5a9500fdc5fd6183de41ec13e4a48"
+    },
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b40/d6bae95628c66e70cde6bbc846373090.bin",
+     "size": 376789056,
+     "sha256": "d6bae95628c66e70cde6bbc846373090b23e5b9218e0252212163c4eee358cd6"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk1-Windows.utoc",
+   "size": 1060419,
+   "sha256": "578e3c1e21fae3d7b0ce95caaa37eb9780afeb603863136166161ee2c66c719c",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b40/578e3c1e21fae3d7b0ce95caaa37eb97.bin",
+     "size": 1060419,
+     "sha256": "578e3c1e21fae3d7b0ce95caaa37eb9780afeb603863136166161ee2c66c719c"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk10-Windows.pak",
+   "size": 743,
+   "sha256": "d823dd8c3a7293575dbe8e269edbd6bf17351c6d85e369b72da36a209b30a71f",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/d823dd8c3a7293575dbe8e269edbd6bf.bin",
+     "size": 743,
+     "sha256": "d823dd8c3a7293575dbe8e269edbd6bf17351c6d85e369b72da36a209b30a71f"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk10-Windows.ucas",
+   "size": 248857104,
+   "sha256": "081a71f65dfcc297d16995f59e59475628c68c1494b2cd6614385d043ba16e33",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/081a71f65dfcc297d16995f59e594756.bin",
+     "size": 248857104,
+     "sha256": "081a71f65dfcc297d16995f59e59475628c68c1494b2cd6614385d043ba16e33"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk10-Windows.utoc",
+   "size": 88284,
+   "sha256": "4e2d71555e56dbd40e8005313ef0c211a6e62a1b7672d5881459ab69a48b1304",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/4e2d71555e56dbd40e8005313ef0c211.bin",
+     "size": 88284,
+     "sha256": "4e2d71555e56dbd40e8005313ef0c211a6e62a1b7672d5881459ab69a48b1304"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk11-Windows.pak",
+   "size": 339,
+   "sha256": "76a9856934aab6e266c3913dc97526eddb9d187349dce6ffabb6598f1cd5c16b",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/76a9856934aab6e266c3913dc97526ed.bin",
+     "size": 339,
+     "sha256": "76a9856934aab6e266c3913dc97526eddb9d187349dce6ffabb6598f1cd5c16b"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk11-Windows.ucas",
+   "size": 15813616,
+   "sha256": "30ff626296e3abfce1bcebaefd56985e6bc6c6ae3f719d5e974da0e6ae45ae05",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/30ff626296e3abfce1bcebaefd56985e.bin",
+     "size": 15813616,
+     "sha256": "30ff626296e3abfce1bcebaefd56985e6bc6c6ae3f719d5e974da0e6ae45ae05"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk11-Windows.utoc",
+   "size": 4820,
+   "sha256": "e83e7e3b1cf3315dcab2910099af368e2ebd25c57d9b0f43999d90430270d536",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/e83e7e3b1cf3315dcab2910099af368e.bin",
+     "size": 4820,
+     "sha256": "e83e7e3b1cf3315dcab2910099af368e2ebd25c57d9b0f43999d90430270d536"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk13-Windows.pak",
+   "size": 655,
+   "sha256": "1e190e2b43ceeb500ecc7d9935dee898fea52ace2c8fe98722e8830a3e1542e0",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/1e190e2b43ceeb500ecc7d9935dee898.bin",
+     "size": 655,
+     "sha256": "1e190e2b43ceeb500ecc7d9935dee898fea52ace2c8fe98722e8830a3e1542e0"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk13-Windows.ucas",
+   "size": 725337104,
+   "sha256": "859b484ca4c85a74300a1827e3a2f97b06be79fbfce5f8351bb4d0c96f7b15e1",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/a5f29bb9ff4e32d712db9003c3f03791.bin",
+     "size": 398458880,
+     "sha256": "a5f29bb9ff4e32d712db9003c3f037916a721c4a7198751e07f219b023375523"
+    },
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/e01f9af0dd836987a0429dddd782f239.bin",
+     "size": 326878224,
+     "sha256": "e01f9af0dd836987a0429dddd782f239e0af1ee4e9f20106a0b36f8d9451e8b4"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk13-Windows.utoc",
+   "size": 296050,
+   "sha256": "400a614518a1791c7288583443ebdad7890d0eb3bd4f0e181fa2ae6841052d13",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/400a614518a1791c7288583443ebdad7.bin",
+     "size": 296050,
+     "sha256": "400a614518a1791c7288583443ebdad7890d0eb3bd4f0e181fa2ae6841052d13"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk14-Windows.pak",
+   "size": 1287,
+   "sha256": "bdf3dff14a7affb26ac48ae07779fc81b3ca4804e12d636eaf192aeee531d57f",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/bdf3dff14a7affb26ac48ae07779fc81.bin",
+     "size": 1287,
+     "sha256": "bdf3dff14a7affb26ac48ae07779fc81b3ca4804e12d636eaf192aeee531d57f"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk14-Windows.ucas",
+   "size": 208334256,
+   "sha256": "597c0d7e15e6c49821f73f74943e1deef106822956074fa731755eccb637318e",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b40/597c0d7e15e6c49821f73f74943e1dee.bin",
+     "size": 208334256,
+     "sha256": "597c0d7e15e6c49821f73f74943e1deef106822956074fa731755eccb637318e"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk14-Windows.utoc",
+   "size": 86792,
+   "sha256": "0c0cfb03766c0bb48d7975a18b25d6e34300913a27d39020d26bb6c03e9f04f4",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b40/0c0cfb03766c0bb48d7975a18b25d6e3.bin",
+     "size": 86792,
+     "sha256": "0c0cfb03766c0bb48d7975a18b25d6e34300913a27d39020d26bb6c03e9f04f4"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk15-Windows.pak",
+   "size": 1196,
+   "sha256": "51553c1d9f98d4bcf878eeda57e881a00fccef4a0684f1d5ece05ad4335d7d89",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b37/51553c1d9f98d4bcf878eeda57e881a0.bin",
+     "size": 1196,
+     "sha256": "51553c1d9f98d4bcf878eeda57e881a00fccef4a0684f1d5ece05ad4335d7d89"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk15-Windows.ucas",
+   "size": 309662064,
+   "sha256": "5dafa02f8c0acc522f49565c8dfd5a4daff9335d4cc41177895579c57eb3bf62",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b40/5dafa02f8c0acc522f49565c8dfd5a4d.bin",
+     "size": 309662064,
+     "sha256": "5dafa02f8c0acc522f49565c8dfd5a4daff9335d4cc41177895579c57eb3bf62"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk15-Windows.utoc",
+   "size": 102329,
+   "sha256": "0cb1ac230f99451416bdf18c39679f6d54dc00f3c4749aa694a3c357d98e6a4c",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b40/0cb1ac230f99451416bdf18c39679f6d.bin",
+     "size": 102329,
+     "sha256": "0cb1ac230f99451416bdf18c39679f6d54dc00f3c4749aa694a3c357d98e6a4c"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk15optional-Windows.pak",
+   "size": 339,
+   "sha256": "4fe8b3b41b390e9f2f76b163527145cfa92211718f854b5290bd22eb71a4f76c",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/4fe8b3b41b390e9f2f76b163527145cf.bin",
+     "size": 339,
+     "sha256": "4fe8b3b41b390e9f2f76b163527145cfa92211718f854b5290bd22eb71a4f76c"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk15optional-Windows.ucas",
+   "size": 67680576,
+   "sha256": "b2d76890dcd50fe6da558e36ccae37236dd83c4cccc4390822520b2d45d805c4",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/b2d76890dcd50fe6da558e36ccae3723.bin",
+     "size": 67680576,
+     "sha256": "b2d76890dcd50fe6da558e36ccae37236dd83c4cccc4390822520b2d45d805c4"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk15optional-Windows.utoc",
+   "size": 42122,
+   "sha256": "efd3200a8c7ac9301d0d839eb086318382dc478ebee55acb2d0693f8704b435f",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/efd3200a8c7ac9301d0d839eb0863183.bin",
+     "size": 42122,
+     "sha256": "efd3200a8c7ac9301d0d839eb086318382dc478ebee55acb2d0693f8704b435f"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk16-Windows.pak",
+   "size": 1289,
+   "sha256": "b688a2594d3878276937c44b9f084d58b77110ec364aebc93853186f5d49f122",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/b688a2594d3878276937c44b9f084d58.bin",
+     "size": 1289,
+     "sha256": "b688a2594d3878276937c44b9f084d58b77110ec364aebc93853186f5d49f122"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk16-Windows.ucas",
+   "size": 346167968,
+   "sha256": "eddb5e278a1e694c4483a428d6f1478a803dbf1f489fca4476232ac67ae8cc7f",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b40/eddb5e278a1e694c4483a428d6f1478a.bin",
+     "size": 346167968,
+     "sha256": "eddb5e278a1e694c4483a428d6f1478a803dbf1f489fca4476232ac67ae8cc7f"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk16-Windows.utoc",
+   "size": 366463,
+   "sha256": "950c7256693c7d53d4fea1d54389af186c8fcd7cb428e6a39685f57a3eb0ace7",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b40/950c7256693c7d53d4fea1d54389af18.bin",
+     "size": 366463,
+     "sha256": "950c7256693c7d53d4fea1d54389af186c8fcd7cb428e6a39685f57a3eb0ace7"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk17-Windows.pak",
+   "size": 1099,
+   "sha256": "034467246d2e8015efd4322d525a333aab2d5364c6959a315e7639f85a2a212f",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/034467246d2e8015efd4322d525a333a.bin",
+     "size": 1099,
+     "sha256": "034467246d2e8015efd4322d525a333aab2d5364c6959a315e7639f85a2a212f"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk17-Windows.ucas",
+   "size": 23691920,
+   "sha256": "8000f24fcf7b0c6a6b69623919e88f683bf77858860d9996afad48c3a3989dbd",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/8000f24fcf7b0c6a6b69623919e88f68.bin",
+     "size": 23691920,
+     "sha256": "8000f24fcf7b0c6a6b69623919e88f683bf77858860d9996afad48c3a3989dbd"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk17-Windows.utoc",
+   "size": 15857,
+   "sha256": "296fad6cfa62d78fe6a930b2048aa5edaf22f0c3bbb95643eb43dc18544123b3",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/296fad6cfa62d78fe6a930b2048aa5ed.bin",
+     "size": 15857,
+     "sha256": "296fad6cfa62d78fe6a930b2048aa5edaf22f0c3bbb95643eb43dc18544123b3"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk18-Windows.pak",
+   "size": 791,
+   "sha256": "028cb8bdb42dfe3e41da31bbbc3b9d321d020f17c7c9b9ac6469f398c82e8f9b",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/028cb8bdb42dfe3e41da31bbbc3b9d32.bin",
+     "size": 791,
+     "sha256": "028cb8bdb42dfe3e41da31bbbc3b9d321d020f17c7c9b9ac6469f398c82e8f9b"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk18-Windows.ucas",
+   "size": 69693712,
+   "sha256": "336a049d3db94cd5f84d3f8f5f7ab0aa8a27950e61407e4a4b6be8c07f925a57",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b40/336a049d3db94cd5f84d3f8f5f7ab0aa.bin",
+     "size": 69693712,
+     "sha256": "336a049d3db94cd5f84d3f8f5f7ab0aa8a27950e61407e4a4b6be8c07f925a57"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk18-Windows.utoc",
+   "size": 33179,
+   "sha256": "646c8748edc090ed9178856f939d4e35ece6af26391d77c4f759b33cff8286f5",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b40/646c8748edc090ed9178856f939d4e35.bin",
+     "size": 33179,
+     "sha256": "646c8748edc090ed9178856f939d4e35ece6af26391d77c4f759b33cff8286f5"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk2-Windows.pak",
+   "size": 1043,
+   "sha256": "0f274f16d2736f94da857071afba41249593b94509f2c7b646425743f6d28a6b",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b40/0f274f16d2736f94da857071afba4124.bin",
+     "size": 1043,
+     "sha256": "0f274f16d2736f94da857071afba41249593b94509f2c7b646425743f6d28a6b"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk2-Windows.ucas",
+   "size": 476538944,
+   "sha256": "67968b3d74cb6a13ef4c2ccf86308a6152ba63582453dcbcfba9a1ac77442254",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b40/df70f84c2b045eef457641b0f68085fc.bin",
+     "size": 398458880,
+     "sha256": "df70f84c2b045eef457641b0f68085fc08158bee54d9318e4277e577c8f114dc"
+    },
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b40/6784c3e1b29e5b4310172060145eb7c8.bin",
+     "size": 78080064,
+     "sha256": "6784c3e1b29e5b4310172060145eb7c8c4a7178f473446c1cf0ec2c069f8f1f4"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk2-Windows.utoc",
+   "size": 189897,
+   "sha256": "064dfeb631aebafaa32739fd2cf486c989854855a10d995a3cf9dd5a04b935fd",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b40/064dfeb631aebafaa32739fd2cf486c9.bin",
+     "size": 189897,
+     "sha256": "064dfeb631aebafaa32739fd2cf486c989854855a10d995a3cf9dd5a04b935fd"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk20-Windows.pak",
+   "size": 1519,
+   "sha256": "ab8d91abe5038c2156e1db8a9566a56723c851a274c20536e77cfcf5ca111812",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/ab8d91abe5038c2156e1db8a9566a567.bin",
+     "size": 1519,
+     "sha256": "ab8d91abe5038c2156e1db8a9566a56723c851a274c20536e77cfcf5ca111812"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk20-Windows.ucas",
+   "size": 95788512,
+   "sha256": "264eb5cae53c92030501ff612e2d6993b90fc5f81c534f058e0889fb0689c46f",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/264eb5cae53c92030501ff612e2d6993.bin",
+     "size": 95788512,
+     "sha256": "264eb5cae53c92030501ff612e2d6993b90fc5f81c534f058e0889fb0689c46f"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk20-Windows.utoc",
+   "size": 38821,
+   "sha256": "42f0a3891cbdee41f60b9657f52b4744959a634a2c3a41d24dc9605821ff4af1",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/42f0a3891cbdee41f60b9657f52b4744.bin",
+     "size": 38821,
+     "sha256": "42f0a3891cbdee41f60b9657f52b4744959a634a2c3a41d24dc9605821ff4af1"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk21-Windows.pak",
+   "size": 987,
+   "sha256": "30983eee88c683592b2b91fc5c3a3d583718fecbaa31a14c28295c19b6f1eff1",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b37/30983eee88c683592b2b91fc5c3a3d58.bin",
+     "size": 987,
+     "sha256": "30983eee88c683592b2b91fc5c3a3d583718fecbaa31a14c28295c19b6f1eff1"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk21-Windows.ucas",
+   "size": 8565984,
+   "sha256": "8e59e0eb6c9166c4c77e3f7342cafd46851cfea3aeaf4d5715f3c4cff0673b6c",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b40/8e59e0eb6c9166c4c77e3f7342cafd46.bin",
+     "size": 8565984,
+     "sha256": "8e59e0eb6c9166c4c77e3f7342cafd46851cfea3aeaf4d5715f3c4cff0673b6c"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk21-Windows.utoc",
+   "size": 58151,
+   "sha256": "77d87518c99f300cce57282292caf09c4e941ec4ff9ff235e0951b1b9d479628",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b40/77d87518c99f300cce57282292caf09c.bin",
+     "size": 58151,
+     "sha256": "77d87518c99f300cce57282292caf09c4e941ec4ff9ff235e0951b1b9d479628"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk22-Windows.pak",
+   "size": 855,
+   "sha256": "9a3d614f1428890678e0ba591b358589c6a1ebe54d9f580d6a2bf98c00efe5e2",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b37/9a3d614f1428890678e0ba591b358589.bin",
+     "size": 855,
+     "sha256": "9a3d614f1428890678e0ba591b358589c6a1ebe54d9f580d6a2bf98c00efe5e2"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk22-Windows.ucas",
+   "size": 7194896,
+   "sha256": "8db3d679af324ab4e134bfeeebc2f4f411a771f36c9a9940b1068429c498b20b",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b40/8db3d679af324ab4e134bfeeebc2f4f4.bin",
+     "size": 7194896,
+     "sha256": "8db3d679af324ab4e134bfeeebc2f4f411a771f36c9a9940b1068429c498b20b"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk22-Windows.utoc",
+   "size": 18555,
+   "sha256": "4239064b5ec96cbcea50d8c29d914ee06dc8473bbb3491fbf91d590351665e38",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b40/4239064b5ec96cbcea50d8c29d914ee0.bin",
+     "size": 18555,
+     "sha256": "4239064b5ec96cbcea50d8c29d914ee06dc8473bbb3491fbf91d590351665e38"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk23-Windows.pak",
+   "size": 903,
+   "sha256": "669b94543813ea8b8504e977aaf1e42f4eb28e897ff88a87a8cccafbe27fcfa0",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/669b94543813ea8b8504e977aaf1e42f.bin",
+     "size": 903,
+     "sha256": "669b94543813ea8b8504e977aaf1e42f4eb28e897ff88a87a8cccafbe27fcfa0"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk23-Windows.ucas",
+   "size": 64212128,
+   "sha256": "65cf7db58907b0a4acb211d175105cd1117ca09bf22bb11e91c2b4e99f922f4c",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/65cf7db58907b0a4acb211d175105cd1.bin",
+     "size": 64212128,
+     "sha256": "65cf7db58907b0a4acb211d175105cd1117ca09bf22bb11e91c2b4e99f922f4c"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk23-Windows.utoc",
+   "size": 56210,
+   "sha256": "2f79d56886c8a929ff4190740b1e4fc7f4ecc3f3bad4a3a848e0c6a17e0452e4",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/2f79d56886c8a929ff4190740b1e4fc7.bin",
+     "size": 56210,
+     "sha256": "2f79d56886c8a929ff4190740b1e4fc7f4ecc3f3bad4a3a848e0c6a17e0452e4"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk24-Windows.pak",
+   "size": 1378,
+   "sha256": "9adb17ef6a6ccf7e904845f4ec96ea795121958eec777f36a11ed66d345c43e5",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/9adb17ef6a6ccf7e904845f4ec96ea79.bin",
+     "size": 1378,
+     "sha256": "9adb17ef6a6ccf7e904845f4ec96ea795121958eec777f36a11ed66d345c43e5"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk24-Windows.ucas",
+   "size": 25739744,
+   "sha256": "bb4ca5d4223f06d4c1a03cc4093ec5d50cf3b3e8e1928b95fc031be5a7ad40d0",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b40/bb4ca5d4223f06d4c1a03cc4093ec5d5.bin",
+     "size": 25739744,
+     "sha256": "bb4ca5d4223f06d4c1a03cc4093ec5d50cf3b3e8e1928b95fc031be5a7ad40d0"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk24-Windows.utoc",
+   "size": 43337,
+   "sha256": "44ece96557a45b0c1f58bee0c19a457e73f5ec6d49b049e5d13c37a208ddfa22",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b40/44ece96557a45b0c1f58bee0c19a457e.bin",
+     "size": 43337,
+     "sha256": "44ece96557a45b0c1f58bee0c19a457e73f5ec6d49b049e5d13c37a208ddfa22"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk4-Windows.pak",
+   "size": 1117,
+   "sha256": "95ef23cdcc2ba615398620f1d205b7a930515d4abb608b1fecdedb38f8485d46",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/95ef23cdcc2ba615398620f1d205b7a9.bin",
+     "size": 1117,
+     "sha256": "95ef23cdcc2ba615398620f1d205b7a930515d4abb608b1fecdedb38f8485d46"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk4-Windows.ucas",
+   "size": 149236256,
+   "sha256": "e58d90382d6a064cfa73cfba18a5bbc427274d71ec717e338f5312c9a1777cd3",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b40/e58d90382d6a064cfa73cfba18a5bbc4.bin",
+     "size": 149236256,
+     "sha256": "e58d90382d6a064cfa73cfba18a5bbc427274d71ec717e338f5312c9a1777cd3"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk4-Windows.utoc",
+   "size": 131592,
+   "sha256": "7d7c25a08bc03d9ec0ddc4a47635a2a2ee3b817c96765196a3fc6163d42f8fd1",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b40/7d7c25a08bc03d9ec0ddc4a47635a2a2.bin",
+     "size": 131592,
+     "sha256": "7d7c25a08bc03d9ec0ddc4a47635a2a2ee3b817c96765196a3fc6163d42f8fd1"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk6-Windows.pak",
+   "size": 924,
+   "sha256": "0200ccb5de68c9ad18223677d1174bc7d51e61cfc6ae91d79c6e172acb1ff7b0",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b37/0200ccb5de68c9ad18223677d1174bc7.bin",
+     "size": 924,
+     "sha256": "0200ccb5de68c9ad18223677d1174bc7d51e61cfc6ae91d79c6e172acb1ff7b0"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk6-Windows.ucas",
+   "size": 607375232,
+   "sha256": "2330f0d1eb3f93339c637454bd6390f7c6e1680923566516d2d059ea200c4c8a",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b37/3ce6e5d7230ce2d8ff32bafb2844aad9.bin",
+     "size": 398458880,
+     "sha256": "3ce6e5d7230ce2d8ff32bafb2844aad91c5c96d6af8b47a844dcc959843bae08"
+    },
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b37/6c2ae4d2325f76de517cbc899093c10e.bin",
+     "size": 208916352,
+     "sha256": "6c2ae4d2325f76de517cbc899093c10eb68510040388d9fc8e843f6b92ff481e"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk6-Windows.utoc",
+   "size": 334934,
+   "sha256": "b4e8532ab880724df14735f3dc316ee0fb72a28e4deed4e2057264ae3fe53daa",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b37/b4e8532ab880724df14735f3dc316ee0.bin",
+     "size": 334934,
+     "sha256": "b4e8532ab880724df14735f3dc316ee0fb72a28e4deed4e2057264ae3fe53daa"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk8-Windows.pak",
+   "size": 951,
+   "sha256": "0622dda227d68a0cdcca3ba5e26eb80189a914b4b563666cdf8379bd4cc218d4",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/0622dda227d68a0cdcca3ba5e26eb801.bin",
+     "size": 951,
+     "sha256": "0622dda227d68a0cdcca3ba5e26eb80189a914b4b563666cdf8379bd4cc218d4"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk8-Windows.ucas",
+   "size": 637400240,
+   "sha256": "bc0822cddee3175320b9e31e319e617ceb17c42554ead98c1d8a61397a1320f4",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b40/a0e4360ebcbb48693098ab31ee6149b0.bin",
+     "size": 398458880,
+     "sha256": "a0e4360ebcbb48693098ab31ee6149b00a202af0df102694343957ac542e3474"
+    },
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b40/c357ad6fd7f2cad9d488b02824d9174e.bin",
+     "size": 238941360,
+     "sha256": "c357ad6fd7f2cad9d488b02824d9174e19cc5bfea4ae77a5f48ded138ae7aa7c"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk8-Windows.utoc",
+   "size": 243887,
+   "sha256": "9fe18260aede6224904f480a0d29e150d6c9f0cbcc24d0fab7e744e5e8da1f70",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b40/9fe18260aede6224904f480a0d29e150.bin",
+     "size": 243887,
+     "sha256": "9fe18260aede6224904f480a0d29e150d6c9f0cbcc24d0fab7e744e5e8da1f70"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk8optional-Windows.pak",
+   "size": 339,
+   "sha256": "3e8c11ffad7274ac1cd7318c583072e208fcf6c3b67c9e94163b10bb7408d825",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/3e8c11ffad7274ac1cd7318c583072e2.bin",
+     "size": 339,
+     "sha256": "3e8c11ffad7274ac1cd7318c583072e208fcf6c3b67c9e94163b10bb7408d825"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk8optional-Windows.ucas",
+   "size": 38948512,
+   "sha256": "e88d3bf07a9f43ecc14ff24aa32a54d80bc4726ebf3ca8eea324284418723dab",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/e88d3bf07a9f43ecc14ff24aa32a54d8.bin",
+     "size": 38948512,
+     "sha256": "e88d3bf07a9f43ecc14ff24aa32a54d80bc4726ebf3ca8eea324284418723dab"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk8optional-Windows.utoc",
+   "size": 18952,
+   "sha256": "bc1d986a3fdc24a6f5375c5f33e3902f994706b62c4c36d6c698d8b48471e777",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/bc1d986a3fdc24a6f5375c5f33e3902f.bin",
+     "size": 18952,
+     "sha256": "bc1d986a3fdc24a6f5375c5f33e3902f994706b62c4c36d6c698d8b48471e777"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk9-Windows.pak",
+   "size": 1115,
+   "sha256": "faf4c6b019461b1940fc24ef3bc5a1f66434ab52ae160b1a9b1c6d95a83ab6c6",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/faf4c6b019461b1940fc24ef3bc5a1f6.bin",
+     "size": 1115,
+     "sha256": "faf4c6b019461b1940fc24ef3bc5a1f66434ab52ae160b1a9b1c6d95a83ab6c6"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk9-Windows.ucas",
+   "size": 1063495312,
+   "sha256": "d5d421af76937b6b271b2c8c6e8e96790b1303245ef8ce25148314e7e42ac04d",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/824498a25264b8dae40c414c9e3b52da.bin",
+     "size": 398458880,
+     "sha256": "824498a25264b8dae40c414c9e3b52daf9a7a036c5c72b6694a45597fd166917"
+    },
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/db28421b0b158c2d19a45d19a201df7e.bin",
+     "size": 398458880,
+     "sha256": "db28421b0b158c2d19a45d19a201df7ea6026c911d7ef30f1e461aa1124cd3e1"
+    },
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/744e0c8502e1156da69c12a25b42fd39.bin",
+     "size": 266577552,
+     "sha256": "744e0c8502e1156da69c12a25b42fd39c5aca621fc110d2c6ff7db5ba46434ae"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk9-Windows.utoc",
+   "size": 518274,
+   "sha256": "587af0e14e55a87a63f2603c2a94bbb3a8bed781d4733fcb632ea906f5ed5654",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/587af0e14e55a87a63f2603c2a94bbb3.bin",
+     "size": 518274,
+     "sha256": "587af0e14e55a87a63f2603c2a94bbb3a8bed781d4733fcb632ea906f5ed5654"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk9optional-Windows.pak",
+   "size": 339,
+   "sha256": "e67019e34070b928b07d64d55e622f7c81077b8f8fbf2bfb9ebc86e2629ada4c",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/e67019e34070b928b07d64d55e622f7c.bin",
+     "size": 339,
+     "sha256": "e67019e34070b928b07d64d55e622f7c81077b8f8fbf2bfb9ebc86e2629ada4c"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk9optional-Windows.ucas",
+   "size": 13107760,
+   "sha256": "67e88eea60f1a40887f2a6c1d66143e73c30af17fc0b471e5d7dfd53a8a9f43a",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/67e88eea60f1a40887f2a6c1d66143e7.bin",
+     "size": 13107760,
+     "sha256": "67e88eea60f1a40887f2a6c1d66143e73c30af17fc0b471e5d7dfd53a8a9f43a"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Content/Paks/pakchunk9optional-Windows.utoc",
+   "size": 3484,
+   "sha256": "665c8b55a7955d9aea766fe713f8d89708c853d17e59d9cfc2955ec985520dfb",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/665c8b55a7955d9aea766fe713f8d897.bin",
+     "size": 3484,
+     "sha256": "665c8b55a7955d9aea766fe713f8d89708c853d17e59d9cfc2955ec985520dfb"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/bases.json",
+   "size": 2837,
+   "sha256": "1566de7d2e4dc1f4e30352f94f3c5cd5097fb59e7d81ba122d9b23868fd83e84",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b40/1566de7d2e4dc1f4e30352f94f3c5cd5.bin",
+     "size": 2837,
+     "sha256": "1566de7d2e4dc1f4e30352f94f3c5cd5097fb59e7d81ba122d9b23868fd83e84"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/decor.json",
+   "size": 17934,
+   "sha256": "9845a38c00df308e3c610e94e985cc4e34406e9b070278f426dc309da504cd1f",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/9845a38c00df308e3c610e94e985cc4e.bin",
+     "size": 17934,
+     "sha256": "9845a38c00df308e3c610e94e985cc4e34406e9b070278f426dc309da504cd1f"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/economy.json",
+   "size": 1350,
+   "sha256": "0b380f78aae221ab6d9631b3186064b7f7c1223085fc4822036a2215c35b0b26",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/0b380f78aae221ab6d9631b3186064b7.bin",
+     "size": 1350,
+     "sha256": "0b380f78aae221ab6d9631b3186064b7f7c1223085fc4822036a2215c35b0b26"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/farm.json",
+   "size": 2522,
+   "sha256": "6344d98d07bf9fe07c3a74a86a370ec808e0f826011482411a29249df30f3f40",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b40/6344d98d07bf9fe07c3a74a86a370ec8.bin",
+     "size": 2522,
+     "sha256": "6344d98d07bf9fe07c3a74a86a370ec808e0f826011482411a29249df30f3f40"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/hangars.json",
+   "size": 326,
+   "sha256": "3f7450d9211459b4efc10f19737bde1d168632ff48f8c8c31fffc7d221d169b8",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/3f7450d9211459b4efc10f19737bde1d.bin",
+     "size": 326,
+     "sha256": "3f7450d9211459b4efc10f19737bde1d168632ff48f8c8c31fffc7d221d169b8"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/homesteads.json",
+   "size": 1062,
+   "sha256": "ff09a78c031cbb3cf058721083d8a256f44849cb552f0255687c0a6c7d974e93",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/ff09a78c031cbb3cf058721083d8a256.bin",
+     "size": 1062,
+     "sha256": "ff09a78c031cbb3cf058721083d8a256f44849cb552f0255687c0a6c7d974e93"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/hull_kits.json",
+   "size": 770,
+   "sha256": "ccd29f86c286550ea36e247fb876ba9f5ce17bb458dc159e3b60b1c7a747003b",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/ccd29f86c286550ea36e247fb876ba9f.bin",
+     "size": 770,
+     "sha256": "ccd29f86c286550ea36e247fb876ba9f5ce17bb458dc159e3b60b1c7a747003b"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/lore.json",
+   "size": 15673,
+   "sha256": "386b81033ba682f4cfc1f7434a636eec85ff110acfe6a3fbd6643e377afc36f4",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/386b81033ba682f4cfc1f7434a636eec.bin",
+     "size": 15673,
+     "sha256": "386b81033ba682f4cfc1f7434a636eec85ff110acfe6a3fbd6643e377afc36f4"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/materials.json",
+   "size": 4175,
+   "sha256": "366e6e2ef230a5e13d13ad4693196e545c5f97f669afb87de1a858480fe6c24e",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/366e6e2ef230a5e13d13ad4693196e54.bin",
+     "size": 4175,
+     "sha256": "366e6e2ef230a5e13d13ad4693196e545c5f97f669afb87de1a858480fe6c24e"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/milestones.json",
+   "size": 2905,
+   "sha256": "17be72c91e63f9c310a804e987c2cefb9bc4a52826a446e4bd53eed990ebfd58",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/17be72c91e63f9c310a804e987c2cefb.bin",
+     "size": 2905,
+     "sha256": "17be72c91e63f9c310a804e987c2cefb9bc4a52826a446e4bd53eed990ebfd58"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/music.json",
+   "size": 1776,
+   "sha256": "5dca4289fd9e0f6d70316117f187efba9ddcc11111ec1f3b2c5983755a56037e",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/5dca4289fd9e0f6d70316117f187efba.bin",
+     "size": 1776,
+     "sha256": "5dca4289fd9e0f6d70316117f187efba9ddcc11111ec1f3b2c5983755a56037e"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/navpoints.json",
+   "size": 2451,
+   "sha256": "8fd6e80cae8fec642fa5a652d5b1041a550d632af319d1e9559995aa82aecea3",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/8fd6e80cae8fec642fa5a652d5b1041a.bin",
+     "size": 2451,
+     "sha256": "8fd6e80cae8fec642fa5a652d5b1041a550d632af319d1e9559995aa82aecea3"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/ship_dealer.json",
+   "size": 448,
+   "sha256": "30eb5f5c20a3022832288f0eefedaa3c58689ae0863192d3da9cd7d6074228de",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b40/30eb5f5c20a3022832288f0eefedaa3c.bin",
+     "size": 448,
+     "sha256": "30eb5f5c20a3022832288f0eefedaa3c58689ae0863192d3da9cd7d6074228de"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/sites.json",
+   "size": 4920,
+   "sha256": "7466358e08e4629e1e7c92693558face07583eddf0c889ebbf209d6b383c0bb0",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/7466358e08e4629e1e7c92693558face.bin",
+     "size": 4920,
+     "sha256": "7466358e08e4629e1e7c92693558face07583eddf0c889ebbf209d6b383c0bb0"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/staff.json",
+   "size": 372,
+   "sha256": "bf34ec1b1cd44a3496a853059cf406b700ba4ce994ff72781284ea53f5d19723",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/bf34ec1b1cd44a3496a853059cf406b7.bin",
+     "size": 372,
+     "sha256": "bf34ec1b1cd44a3496a853059cf406b700ba4ce994ff72781284ea53f5d19723"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/suits.json",
+   "size": 2636,
+   "sha256": "69a21b6bf525b5e404637ca7b709d0f148edbd9676b7aa232d83e6e6d200aa33",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/69a21b6bf525b5e404637ca7b709d0f1.bin",
+     "size": 2636,
+     "sha256": "69a21b6bf525b5e404637ca7b709d0f148edbd9676b7aa232d83e6e6d200aa33"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/territory.json",
+   "size": 1530,
+   "sha256": "1390dce9c8bd81a4993103a2a1917d5f4584a549b3afd4173cd0965f49c1c4d3",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/1390dce9c8bd81a4993103a2a1917d5f.bin",
+     "size": 1530,
+     "sha256": "1390dce9c8bd81a4993103a2a1917d5f4584a549b3afd4173cd0965f49c1c4d3"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/vehicles.json",
+   "size": 3036,
+   "sha256": "30e7b09a0423d4cc990afd32755e0ab13f703783e5bc7d991f2cd9f69853600b",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/30e7b09a0423d4cc990afd32755e0ab1.bin",
+     "size": 3036,
+     "sha256": "30e7b09a0423d4cc990afd32755e0ab13f703783e5bc7d991f2cd9f69853600b"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/weapons.json",
+   "size": 9072,
+   "sha256": "3267d6e3efbf42e5442d72f9c9b11ec774c415de32ba7157ab105503cb8332f6",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/3267d6e3efbf42e5442d72f9c9b11ec7.bin",
+     "size": 9072,
+     "sha256": "3267d6e3efbf42e5442d72f9c9b11ec774c415de32ba7157ab105503cb8332f6"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/world_events.json",
+   "size": 3185,
+   "sha256": "6fa5cfe740cb862c9c1aea8dccbc35312fa2c91545ab4f78f42e5aeb208fcc2b",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/6fa5cfe740cb862c9c1aea8dccbc3531.bin",
+     "size": 3185,
+     "sha256": "6fa5cfe740cb862c9c1aea8dccbc35312fa2c91545ab4f78f42e5aeb208fcc2b"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/blueprints/bp_capital_mk1_standard.json",
+   "size": 1632,
+   "sha256": "d3a767232e7c556025f33855eb2440bad5d66e64b22d27360cf51698686e7484",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/d3a767232e7c556025f33855eb2440ba.bin",
+     "size": 1632,
+     "sha256": "d3a767232e7c556025f33855eb2440bad5d66e64b22d27360cf51698686e7484"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/blueprints/bp_dread_mk1_standard.json",
+   "size": 2474,
+   "sha256": "7dae8b1f2d65d497884ecef7e003ba76c9c4433158db3108d74320a68f387487",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/7dae8b1f2d65d497884ecef7e003ba76.bin",
+     "size": 2474,
+     "sha256": "7dae8b1f2d65d497884ecef7e003ba76c9c4433158db3108d74320a68f387487"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/blueprints/bp_drover_mk1_standard.json",
+   "size": 1157,
+   "sha256": "53f77e4e005d9299a50bdb8d52cba7fa514b2896e0ed7d536a5fa9ff735906f7",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/53f77e4e005d9299a50bdb8d52cba7fa.bin",
+     "size": 1157,
+     "sha256": "53f77e4e005d9299a50bdb8d52cba7fa514b2896e0ed7d536a5fa9ff735906f7"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/blueprints/bp_pilgrim_mk1_standard.json",
+   "size": 1836,
+   "sha256": "cb642c3edc1700fcd259cd080cf4f620e114112427f9f2713612bc914afdbe83",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/cb642c3edc1700fcd259cd080cf4f620.bin",
+     "size": 1836,
+     "sha256": "cb642c3edc1700fcd259cd080cf4f620e114112427f9f2713612bc914afdbe83"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/blueprints/bp_pod_mk1_hotrod.json",
+   "size": 711,
+   "sha256": "c77c0ea115bc266896054a002599e3428e5d3b91284d6e28edf41b591e3e78cb",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/c77c0ea115bc266896054a002599e342.bin",
+     "size": 711,
+     "sha256": "c77c0ea115bc266896054a002599e3428e5d3b91284d6e28edf41b591e3e78cb"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/blueprints/bp_pod_mk1_minimal.json",
+   "size": 591,
+   "sha256": "fa347d3fa1cc54a146244fb2508dcbcd48a93dbb62ce22a3c3b12dc6cea09383",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/fa347d3fa1cc54a146244fb2508dcbcd.bin",
+     "size": 591,
+     "sha256": "fa347d3fa1cc54a146244fb2508dcbcd48a93dbb62ce22a3c3b12dc6cea09383"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/blueprints/bp_pod_mk1_starter.json",
+   "size": 691,
+   "sha256": "f2406765350228f4fb182e36eab3b91456936afd48621c83f44abfd8e267a4ad",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/f2406765350228f4fb182e36eab3b914.bin",
+     "size": 691,
+     "sha256": "f2406765350228f4fb182e36eab3b91456936afd48621c83f44abfd8e267a4ad"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/blueprints/bp_skiff_mk1_hotrod.json",
+   "size": 937,
+   "sha256": "7bd713bf36c52e425f044ce64ceb37dc2c55892d621f56903e97d853765d0c05",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/7bd713bf36c52e425f044ce64ceb37dc.bin",
+     "size": 937,
+     "sha256": "7bd713bf36c52e425f044ce64ceb37dc2c55892d621f56903e97d853765d0c05"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/blueprints/bp_skiff_mk1_minimal.json",
+   "size": 585,
+   "sha256": "0692e2a1fcf15d38e828b729ee83b92e7ed38a28deee7ee915f2d28cda8ec0e0",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/0692e2a1fcf15d38e828b729ee83b92e.bin",
+     "size": 585,
+     "sha256": "0692e2a1fcf15d38e828b729ee83b92e7ed38a28deee7ee915f2d28cda8ec0e0"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/blueprints/bp_skiff_mk1_raider.json",
+   "size": 916,
+   "sha256": "383e74905682a9ec3d4b4872d2bba88507bdc935f197de3d703c715d482a0ce6",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/383e74905682a9ec3d4b4872d2bba885.bin",
+     "size": 916,
+     "sha256": "383e74905682a9ec3d4b4872d2bba88507bdc935f197de3d703c715d482a0ce6"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/blueprints/bp_skiff_mk1_starter.json",
+   "size": 837,
+   "sha256": "279629c9b7f7c68c303853d9144fc42dcd43df22a5499a9e287c459c4d9b32eb",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/279629c9b7f7c68c303853d9144fc42d.bin",
+     "size": 837,
+     "sha256": "279629c9b7f7c68c303853d9144fc42dcd43df22a5499a9e287c459c4d9b32eb"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/character/look.json",
+   "size": 125059,
+   "sha256": "c78a00a3ae4c822d7c6d76281c4ace39fc893ac74ca60506756bc76968a004d6",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b37/c78a00a3ae4c822d7c6d76281c4ace39.bin",
+     "size": 125059,
+     "sha256": "c78a00a3ae4c822d7c6d76281c4ace39fc893ac74ca60506756bc76968a004d6"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/components/ammo_pistol.json",
+   "size": 377,
+   "sha256": "6262966626a3ba61d0096af4ad2ba5bb34c36aa883f637a3e90d6b4294d2c671",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/6262966626a3ba61d0096af4ad2ba5bb.bin",
+     "size": 377,
+     "sha256": "6262966626a3ba61d0096af4ad2ba5bb34c36aa883f637a3e90d6b4294d2c671"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/components/ammo_rifle.json",
+   "size": 351,
+   "sha256": "5c3812af784cebd8c1f2713dc309ec1a7ab77c62a1a44700de4964d7bd9df00b",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/5c3812af784cebd8c1f2713dc309ec1a.bin",
+     "size": 351,
+     "sha256": "5c3812af784cebd8c1f2713dc309ec1a7ab77c62a1a44700de4964d7bd9df00b"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/components/ammo_shotgun.json",
+   "size": 344,
+   "sha256": "b273124dcd070150a73a1064300dfaa56e9427eb218c87c634de85ae44243718",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/b273124dcd070150a73a1064300dfaa5.bin",
+     "size": 344,
+     "sha256": "b273124dcd070150a73a1064300dfaa56e9427eb218c87c634de85ae44243718"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/components/ammo_sniper.json",
+   "size": 357,
+   "sha256": "d8bad135c9797d46d5a18bb43ce5a538e82816f6f7bd471a1cd86e7f0453d89c",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/d8bad135c9797d46d5a18bb43ce5a538.bin",
+     "size": 357,
+     "sha256": "d8bad135c9797d46d5a18bb43ce5a538e82816f6f7bd471a1cd86e7f0453d89c"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/components/comp_actuator.json",
+   "size": 382,
+   "sha256": "907f57012acd8110fff45729ff1d27ce03cd06253d8133fc6b607654c5deb851",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/907f57012acd8110fff45729ff1d27ce.bin",
+     "size": 382,
+     "sha256": "907f57012acd8110fff45729ff1d27ce03cd06253d8133fc6b607654c5deb851"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/components/comp_bulkhead_plate.json",
+   "size": 364,
+   "sha256": "e4955e5115e287c5a1e6e7d4012d7ed2a08b10c72faa103ede68fd7b8623da0d",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/e4955e5115e287c5a1e6e7d4012d7ed2.bin",
+     "size": 364,
+     "sha256": "e4955e5115e287c5a1e6e7d4012d7ed2a08b10c72faa103ede68fd7b8623da0d"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/components/comp_cable_loom.json",
+   "size": 354,
+   "sha256": "291045661da15de99922463bb35cfdae7a13366584f04606ae26054d505849b9",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/291045661da15de99922463bb35cfdae.bin",
+     "size": 354,
+     "sha256": "291045661da15de99922463bb35cfdae7a13366584f04606ae26054d505849b9"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/components/comp_circuit_board.json",
+   "size": 397,
+   "sha256": "3d54fd1e6234c2d3080b596fb5f76f3b62451f98681c7e86c946aeb00aa5e35f",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/3d54fd1e6234c2d3080b596fb5f76f3b.bin",
+     "size": 397,
+     "sha256": "3d54fd1e6234c2d3080b596fb5f76f3b62451f98681c7e86c946aeb00aa5e35f"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/components/comp_coil.json",
+   "size": 336,
+   "sha256": "97a5f4c07a9bfcca74926a11f805fc2d932ac87a117bce6b5f35ec4da346577b",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/97a5f4c07a9bfcca74926a11f805fc2d.bin",
+     "size": 336,
+     "sha256": "97a5f4c07a9bfcca74926a11f805fc2d932ac87a117bce6b5f35ec4da346577b"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/components/comp_deck_plate.json",
+   "size": 435,
+   "sha256": "93e6b2d44a77b8eec8c85fbf6f4244c406f5e1dd79e1cae9f396bf4cf355f306",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/93e6b2d44a77b8eec8c85fbf6f4244c4.bin",
+     "size": 435,
+     "sha256": "93e6b2d44a77b8eec8c85fbf6f4244c406f5e1dd79e1cae9f396bf4cf355f306"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/components/comp_fuel_can.json",
+   "size": 398,
+   "sha256": "668a954a9f07f265142c4d21e6849893df850ccf23b8db07976b923f8c08c14e",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/668a954a9f07f265142c4d21e6849893.bin",
+     "size": 398,
+     "sha256": "668a954a9f07f265142c4d21e6849893df850ccf23b8db07976b923f8c08c14e"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/components/comp_glass_pane.json",
+   "size": 351,
+   "sha256": "4405f1648c26b953d575ff6c913dd528d5b80b0e2de1c9f3e49228e2138e0991",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/4405f1648c26b953d575ff6c913dd528.bin",
+     "size": 351,
+     "sha256": "4405f1648c26b953d575ff6c913dd528d5b80b0e2de1c9f3e49228e2138e0991"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/components/comp_medkit.json",
+   "size": 373,
+   "sha256": "ae03e2b49dff344fef784ee110eb0c67f27454c06271a842b9b28464fa39d876",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/ae03e2b49dff344fef784ee110eb0c67.bin",
+     "size": 373,
+     "sha256": "ae03e2b49dff344fef784ee110eb0c67f27454c06271a842b9b28464fa39d876"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/components/comp_pump.json",
+   "size": 365,
+   "sha256": "f7698066ac4cde68e735fda8f053eae2d5dab170ce18436326ac389233a5769a",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/f7698066ac4cde68e735fda8f053eae2.bin",
+     "size": 365,
+     "sha256": "f7698066ac4cde68e735fda8f053eae2d5dab170ce18436326ac389233a5769a"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/components/comp_ration.json",
+   "size": 400,
+   "sha256": "f22e754f4fa0f2c88e52366c633ee8360b8f9014f84255a04811991d271bd627",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/f22e754f4fa0f2c88e52366c633ee836.bin",
+     "size": 400,
+     "sha256": "f22e754f4fa0f2c88e52366c633ee8360b8f9014f84255a04811991d271bd627"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/components/comp_strut.json",
+   "size": 351,
+   "sha256": "54d43aed43401101c0d74b1130fec329ab6937281de403d9d232e78b209cfd5d",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/54d43aed43401101c0d74b1130fec329.bin",
+     "size": 351,
+     "sha256": "54d43aed43401101c0d74b1130fec329ab6937281de403d9d232e78b209cfd5d"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/components/comp_suit_cell.json",
+   "size": 401,
+   "sha256": "f38886805e496db4e7dd1d4718c9950ac97dc55f17488923224fde77ebbcb7bf",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/f38886805e496db4e7dd1d4718c9950a.bin",
+     "size": 401,
+     "sha256": "f38886805e496db4e7dd1d4718c9950ac97dc55f17488923224fde77ebbcb7bf"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/components/crop_glowcap.json",
+   "size": 351,
+   "sha256": "c52a5c46e1459f6b77049b950b1fb5cae587aecd054b6808d8a7405e0de0e0f6",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/c52a5c46e1459f6b77049b950b1fb5ca.bin",
+     "size": 351,
+     "sha256": "c52a5c46e1459f6b77049b950b1fb5cae587aecd054b6808d8a7405e0de0e0f6"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/components/crop_lettuce.json",
+   "size": 344,
+   "sha256": "f57ed899bcc032f4e17c82e58ce304b7bee63c24bb20cea0c7f5d2398ea4d893",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/f57ed899bcc032f4e17c82e58ce304b7.bin",
+     "size": 344,
+     "sha256": "f57ed899bcc032f4e17c82e58ce304b7bee63c24bb20cea0c7f5d2398ea4d893"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/components/crop_potato.json",
+   "size": 334,
+   "sha256": "c40bc06dc21f12ef5cd7e3506b38666471b8f2f93e5aa6179318d7682bc931fa",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/c40bc06dc21f12ef5cd7e3506b386664.bin",
+     "size": 334,
+     "sha256": "c40bc06dc21f12ef5cd7e3506b38666471b8f2f93e5aa6179318d7682bc931fa"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/components/crop_tomato.json",
+   "size": 333,
+   "sha256": "aba6e4c29d410e0071d93af7d329b3a6076927315db7c123ddc94401e1f06579",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/aba6e4c29d410e0071d93af7d329b3a6.bin",
+     "size": 333,
+     "sha256": "aba6e4c29d410e0071d93af7d329b3a6076927315db7c123ddc94401e1f06579"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/components/seed_glowcap.json",
+   "size": 395,
+   "sha256": "1cfdb78f7a7c29ac091b5b75a86439ac0f476c396ef689a47b289ea537d8f67e",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/1cfdb78f7a7c29ac091b5b75a86439ac.bin",
+     "size": 395,
+     "sha256": "1cfdb78f7a7c29ac091b5b75a86439ac0f476c396ef689a47b289ea537d8f67e"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/components/seed_lettuce.json",
+   "size": 394,
+   "sha256": "3610919e1a0cdec0689122138c3440af5cee53d99e658ed6b733dce9d7e321e9",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/3610919e1a0cdec0689122138c3440af.bin",
+     "size": 394,
+     "sha256": "3610919e1a0cdec0689122138c3440af5cee53d99e658ed6b733dce9d7e321e9"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/components/seed_potato.json",
+   "size": 390,
+   "sha256": "9397c123e933dc6e0362a0d2ced02f73e3d4cb340b4cc6e4d5deb931b8201605",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/9397c123e933dc6e0362a0d2ced02f73.bin",
+     "size": 390,
+     "sha256": "9397c123e933dc6e0362a0d2ced02f73e3d4cb340b4cc6e4d5deb931b8201605"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/components/seed_tomato.json",
+   "size": 390,
+   "sha256": "de738657e5e46e853befa02eacfad41211c6ef4cbb9a2d97ed18cde2f6d451da",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/de738657e5e46e853befa02eacfad412.bin",
+     "size": 390,
+     "sha256": "de738657e5e46e853befa02eacfad41211c6ef4cbb9a2d97ed18cde2f6d451da"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/decor_layouts/bp_capital_mk1_standard.json",
+   "size": 4173,
+   "sha256": "524cc5391b38c06e758981787a57fb66bc78d9a0c1aa9198a8234d438a1cb599",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/524cc5391b38c06e758981787a57fb66.bin",
+     "size": 4173,
+     "sha256": "524cc5391b38c06e758981787a57fb66bc78d9a0c1aa9198a8234d438a1cb599"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/decor_layouts/bp_dread_mk1_standard.json",
+   "size": 4814,
+   "sha256": "7a1ad123c0197deec88bcd181392523952640d878747bc163ba4ee7d81da0a1e",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/7a1ad123c0197deec88bcd1813925239.bin",
+     "size": 4814,
+     "sha256": "7a1ad123c0197deec88bcd181392523952640d878747bc163ba4ee7d81da0a1e"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/decor_layouts/bp_drover_mk1_standard.json",
+   "size": 1498,
+   "sha256": "0c0da9391fc33b1fda7adf38195fc0f657c35807f7e3f0128a6b226d06352cb7",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/0c0da9391fc33b1fda7adf38195fc0f6.bin",
+     "size": 1498,
+     "sha256": "0c0da9391fc33b1fda7adf38195fc0f657c35807f7e3f0128a6b226d06352cb7"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/decor_layouts/bp_pilgrim_mk1_standard.json",
+   "size": 1725,
+   "sha256": "2e8243c28c3270962ac94e1e3f3d0b8156d81994b83f47b90696ad7f10bc7717",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/2e8243c28c3270962ac94e1e3f3d0b81.bin",
+     "size": 1725,
+     "sha256": "2e8243c28c3270962ac94e1e3f3d0b8156d81994b83f47b90696ad7f10bc7717"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/designs/Airlock Test.json",
+   "size": 2553,
+   "sha256": "bfc7e6b543a1dcf871e217718a642a5fe47dec93d01106ef2e7483fd70bcca2f",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/bfc7e6b543a1dcf871e217718a642a5f.bin",
+     "size": 2553,
+     "sha256": "bfc7e6b543a1dcf871e217718a642a5fe47dec93d01106ef2e7483fd70bcca2f"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/designs/Breaker Test.json",
+   "size": 2462,
+   "sha256": "529c37858f3becbdb0235a088cfbc090d840fbadaa35648ffaecda55cfe8c12b",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/529c37858f3becbdb0235a088cfbc090.bin",
+     "size": 2462,
+     "sha256": "529c37858f3becbdb0235a088cfbc090d840fbadaa35648ffaecda55cfe8c12b"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/designs/Catalog Test.json",
+   "size": 15629,
+   "sha256": "5a7f3df65fb8cedc6a25111215da7734115c5953f70830caaad5b0a966ed8eaf",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/5a7f3df65fb8cedc6a25111215da7734.bin",
+     "size": 15629,
+     "sha256": "5a7f3df65fb8cedc6a25111215da7734115c5953f70830caaad5b0a966ed8eaf"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/designs/Dock Test Skiff.json",
+   "size": 1265,
+   "sha256": "31317229b11adb0bafbe3413c6b02dff6c423e4a943a2575a2b3bcdfd7af1a5d",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/31317229b11adb0bafbe3413c6b02dff.bin",
+     "size": 1265,
+     "sha256": "31317229b11adb0bafbe3413c6b02dff6c423e4a943a2575a2b3bcdfd7af1a5d"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/designs/Dock Test Station.json",
+   "size": 1571,
+   "sha256": "2b56d53926ee0b22473a7fad79a10ec8eeab4a73a35e749574b459b46b1e33f5",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/2b56d53926ee0b22473a7fad79a10ec8.bin",
+     "size": 1571,
+     "sha256": "2b56d53926ee0b22473a7fad79a10ec8eeab4a73a35e749574b459b46b1e33f5"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/designs/Glass Test.json",
+   "size": 1192,
+   "sha256": "78d3c9f8ccbdcc316153e02c310b73e777899d21caa9a1a098841c32163aad45",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/78d3c9f8ccbdcc316153e02c310b73e7.bin",
+     "size": 1192,
+     "sha256": "78d3c9f8ccbdcc316153e02c310b73e777899d21caa9a1a098841c32163aad45"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/designs/Hangar.json",
+   "size": 2263,
+   "sha256": "50fd6b2f101b1f3a6f55327645638d8ee5c6fc66f8ecc7c895aa220726500914",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/50fd6b2f101b1f3a6f55327645638d8e.bin",
+     "size": 2263,
+     "sha256": "50fd6b2f101b1f3a6f55327645638d8ee5c6fc66f8ecc7c895aa220726500914"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/designs/Heavy Wren Test.json",
+   "size": 14823,
+   "sha256": "6de7153f8d4137fdbb3fbd5525023e6f7ae10a6fcda542c062d5470fe8ac9113",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/6de7153f8d4137fdbb3fbd5525023e6f.bin",
+     "size": 14823,
+     "sha256": "6de7153f8d4137fdbb3fbd5525023e6f7ae10a6fcda542c062d5470fe8ac9113"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/designs/Joint Test.json",
+   "size": 838,
+   "sha256": "fcb62e156343cd91e64ce9b4ab5df38d0ea957a28cf59fb8ff7507f9fb88bbc2",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/fcb62e156343cd91e64ce9b4ab5df38d.bin",
+     "size": 838,
+     "sha256": "fcb62e156343cd91e64ce9b4ab5df38d0ea957a28cf59fb8ff7507f9fb88bbc2"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/designs/Lines Test.json",
+   "size": 487,
+   "sha256": "c00ff7e969bd691596a7d9aada4c2a1a54c3d52b18bcdc8ea5d41d33ee5575a0",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/c00ff7e969bd691596a7d9aada4c2a1a.bin",
+     "size": 487,
+     "sha256": "c00ff7e969bd691596a7d9aada4c2a1a54c3d52b18bcdc8ea5d41d33ee5575a0"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/designs/Material Test.json",
+   "size": 568,
+   "sha256": "6ed8695485b384ef00821eac9576237e050e5731653b3ec423db95915c197b8a",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/6ed8695485b384ef00821eac9576237e.bin",
+     "size": 568,
+     "sha256": "6ed8695485b384ef00821eac9576237e050e5731653b3ec423db95915c197b8a"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/designs/Mold Test Plate.json",
+   "size": 175,
+   "sha256": "359aaaf6930779336e978ad334908c7615a8da527365dadaa219a3c175b38778",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/359aaaf6930779336e978ad334908c76.bin",
+     "size": 175,
+     "sha256": "359aaaf6930779336e978ad334908c7615a8da527365dadaa219a3c175b38778"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/designs/Parts Showcase.json",
+   "size": 3151,
+   "sha256": "d69e81aca5a44a7ec7fce427ceafc0328006a0f46444684cb1451eb229d3aeff",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/d69e81aca5a44a7ec7fce427ceafc032.bin",
+     "size": 3151,
+     "sha256": "d69e81aca5a44a7ec7fce427ceafc0328006a0f46444684cb1451eb229d3aeff"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/designs/Seal Test Crack.json",
+   "size": 924,
+   "sha256": "2ad087745c944fa935d3ce5c118ad671453f45d0117a9d0f49fca1a70d622001",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/2ad087745c944fa935d3ce5c118ad671.bin",
+     "size": 924,
+     "sha256": "2ad087745c944fa935d3ce5c118ad671453f45d0117a9d0f49fca1a70d622001"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/designs/Seal Test Leak.json",
+   "size": 923,
+   "sha256": "cb485413e065346ae4deaafd07c8226e24a71383dc3108a46dc5d9edd2c6794b",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/cb485413e065346ae4deaafd07c8226e.bin",
+     "size": 923,
+     "sha256": "cb485413e065346ae4deaafd07c8226e24a71383dc3108a46dc5d9edd2c6794b"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/designs/Seal Test Sealed.json",
+   "size": 793,
+   "sha256": "7fd3a91af3cda7e4d5f4e2f54a9cdff9c6405fc24fd9dd02b1b6de6bd92045d9",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/7fd3a91af3cda7e4d5f4e2f54a9cdff9.bin",
+     "size": 793,
+     "sha256": "7fd3a91af3cda7e4d5f4e2f54a9cdff9c6405fc24fd9dd02b1b6de6bd92045d9"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/designs/Snap Test Beam.json",
+   "size": 315,
+   "sha256": "06d59ef14cbadb2bca3cb857e1ac2b3edf7ffcf888e42ff0797bfb28e3d6d102",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/06d59ef14cbadb2bca3cb857e1ac2b3e.bin",
+     "size": 315,
+     "sha256": "06d59ef14cbadb2bca3cb857e1ac2b3edf7ffcf888e42ff0797bfb28e3d6d102"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/designs/Snap Test Plate.json",
+   "size": 210,
+   "sha256": "34e313fa022e8c12c4ec3b29865a838de297ea6ab0b13ed0234a818f8fe95151",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/34e313fa022e8c12c4ec3b29865a838d.bin",
+     "size": 210,
+     "sha256": "34e313fa022e8c12c4ec3b29865a838de297ea6ab0b13ed0234a818f8fe95151"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/designs/Split Test.json",
+   "size": 497,
+   "sha256": "2b21d3d133ac7bb059d4a0d5d8f3625ac6a5441e9c8b247546fe7995b043b445",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/2b21d3d133ac7bb059d4a0d5d8f3625a.bin",
+     "size": 497,
+     "sha256": "2b21d3d133ac7bb059d4a0d5d8f3625ac6a5441e9c8b247546fe7995b043b445"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/designs/Station Test Hangar.json",
+   "size": 2952,
+   "sha256": "a7f7a576d92af1379d81e3647941cc6691d4c903d0f610b0eef5d8f55dc128c9",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b41/a7f7a576d92af1379d81e3647941cc66.bin",
+     "size": 2952,
+     "sha256": "a7f7a576d92af1379d81e3647941cc6691d4c903d0f610b0eef5d8f55dc128c9"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/designs/Stress Station 2000.json",
+   "size": 234304,
+   "sha256": "b1a414425c36e43472e120a9720a5e7db04bc77d081b5ff5024338e3f79ff7a5",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b43/b1a414425c36e43472e120a9720a5e7d.bin",
+     "size": 234304,
+     "sha256": "b1a414425c36e43472e120a9720a5e7db04bc77d081b5ff5024338e3f79ff7a5"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/designs/Turret Test.json",
+   "size": 506,
+   "sha256": "bb7edf035cb21381c05c7f4d1a460c4406d98fb07e71cc7e12b6bda86ab69502",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/bb7edf035cb21381c05c7f4d1a460c44.bin",
+     "size": 506,
+     "sha256": "bb7edf035cb21381c05c7f4d1a460c4406d98fb07e71cc7e12b6bda86ab69502"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/designs/Weapon Shape Test.json",
+   "size": 526,
+   "sha256": "e0a70147bae9965199247e8901e3daae72f59099f1da5187dc2383ecc8660c1e",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/e0a70147bae9965199247e8901e3daae.bin",
+     "size": 526,
+     "sha256": "e0a70147bae9965199247e8901e3daae72f59099f1da5187dc2383ecc8660c1e"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/designs/Wren EMP Test.json",
+   "size": 14468,
+   "sha256": "f38ee9503699e0c80dfd42e7181e88b6d10ad638c09a11468265f21ac365177b",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/f38ee9503699e0c80dfd42e7181e88b6.bin",
+     "size": 14468,
+     "sha256": "f38ee9503699e0c80dfd42e7181e88b6d10ad638c09a11468265f21ac365177b"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/designs/Wren Gatling Test.json",
+   "size": 27101,
+   "sha256": "cf9a28960d5ff2ed9233449f75549815d8da997dafa4defa04fc843d058e818f",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b47/cf9a28960d5ff2ed9233449f75549815.bin",
+     "size": 27101,
+     "sha256": "cf9a28960d5ff2ed9233449f75549815d8da997dafa4defa04fc843d058e818f"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/designs/Wren No Shield Test.json",
+   "size": 14599,
+   "sha256": "c1133e8e49c6851db8122c13d8a4b30e1391719a2cd7c7d337d9c02fa8c201f2",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/c1133e8e49c6851db8122c13d8a4b30e.bin",
+     "size": 14599,
+     "sha256": "c1133e8e49c6851db8122c13d8a4b30e1391719a2cd7c7d337d9c02fa8c201f2"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/designs/Wren.json",
+   "size": 15877,
+   "sha256": "8b90af60880d5d5c0fdb3ad55cf85ef582e7a674b73d99597f43deaf85edf1ec",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/8b90af60880d5d5c0fdb3ad55cf85ef5.bin",
+     "size": 15877,
+     "sha256": "8b90af60880d5d5c0fdb3ad55cf85ef582e7a674b73d99597f43deaf85edf1ec"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/dialogue/broker.json",
+   "size": 1316,
+   "sha256": "d80fbd70c5cbb228c38cd1b2e048d1c7f8213d2ab86c90720f23c3ee34b392a5",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/d80fbd70c5cbb228c38cd1b2e048d1c7.bin",
+     "size": 1316,
+     "sha256": "d80fbd70c5cbb228c38cd1b2e048d1c7f8213d2ab86c90720f23c3ee34b392a5"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/dialogue/clerk.json",
+   "size": 1608,
+   "sha256": "deeab268e60fccf020af254fd7907ffd90604e92f5de94a53f3ce4c44acb2454",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/deeab268e60fccf020af254fd7907ffd.bin",
+     "size": 1608,
+     "sha256": "deeab268e60fccf020af254fd7907ffd90604e92f5de94a53f3ce4c44acb2454"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/dialogue/ilse.json",
+   "size": 14542,
+   "sha256": "9ccc350621a004aa549e0fb2c84c39f3db74b4dd2c7b5968731bdc834cfd0487",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/9ccc350621a004aa549e0fb2c84c39f3.bin",
+     "size": 14542,
+     "sha256": "9ccc350621a004aa549e0fb2c84c39f3db74b4dd2c7b5968731bdc834cfd0487"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/dialogue/outfitter.json",
+   "size": 1226,
+   "sha256": "8d3ca4869d0f1ed43dc61a9649cfae37449038ee01ace8efcd330356c923a162",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/8d3ca4869d0f1ed43dc61a9649cfae37.bin",
+     "size": 1226,
+     "sha256": "8d3ca4869d0f1ed43dc61a9649cfae37449038ee01ace8efcd330356c923a162"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/dialogue/townsfolk.json",
+   "size": 1518,
+   "sha256": "8516dd719c6fd88e4c920da91ee0aabbd4dbba3d30320f6a2f0fbe4132b2b195",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/8516dd719c6fd88e4c920da91ee0aabb.bin",
+     "size": 1518,
+     "sha256": "8516dd719c6fd88e4c920da91ee0aabbd4dbba3d30320f6a2f0fbe4132b2b195"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/facilities/fac_bench.json",
+   "size": 505,
+   "sha256": "cebe474bf91e8920bbb9720f460284a70a3fceeea9da7b3c18d8795d300926f4",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/cebe474bf91e8920bbb9720f460284a7.bin",
+     "size": 505,
+     "sha256": "cebe474bf91e8920bbb9720f460284a70a3fceeea9da7b3c18d8795d300926f4"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/facilities/fac_drydock.json",
+   "size": 742,
+   "sha256": "316dcc9ca77f14dd2758fc3a13c56fef5496eb9092bc888158de9bffb7b6931d",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/316dcc9ca77f14dd2758fc3a13c56fef.bin",
+     "size": 742,
+     "sha256": "316dcc9ca77f14dd2758fc3a13c56fef5496eb9092bc888158de9bffb7b6931d"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/facilities/fac_fabricator.json",
+   "size": 605,
+   "sha256": "d10f2280cc6221fc3e6a005ce5be41c4162a4cc26d38a5d2ebfcff5777f9f303",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/d10f2280cc6221fc3e6a005ce5be41c4.bin",
+     "size": 605,
+     "sha256": "d10f2280cc6221fc3e6a005ce5be41c4162a4cc26d38a5d2ebfcff5777f9f303"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/facilities/fac_hand.json",
+   "size": 226,
+   "sha256": "248e75327f183f8d925582b75b2d1079cdffbdeab0d52f8ba5f8ec12d748d1bf",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/248e75327f183f8d925582b75b2d1079.bin",
+     "size": 226,
+     "sha256": "248e75327f183f8d925582b75b2d1079cdffbdeab0d52f8ba5f8ec12d748d1bf"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/facilities/fac_press.json",
+   "size": 593,
+   "sha256": "af0782d8f0ad812e30b53f300ef690573f7366911eb2cd86edbc0365dbd6e23f",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/af0782d8f0ad812e30b53f300ef69057.bin",
+     "size": 593,
+     "sha256": "af0782d8f0ad812e30b53f300ef690573f7366911eb2cd86edbc0365dbd6e23f"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/facilities/fac_refinery.json",
+   "size": 586,
+   "sha256": "3a4c4db58d44677162bac44a7d7807d266e341b9c491e5bcf0627141564af5d7",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/3a4c4db58d44677162bac44a7d7807d2.bin",
+     "size": 586,
+     "sha256": "3a4c4db58d44677162bac44a7d7807d266e341b9c491e5bcf0627141564af5d7"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/facilities/fac_shipyard.json",
+   "size": 607,
+   "sha256": "4c37e62338b5e218f66de9abd47233748b4658ca3abab39ffcdc77ab4c9ad657",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/4c37e62338b5e218f66de9abd4723374.bin",
+     "size": 607,
+     "sha256": "4c37e62338b5e218f66de9abd47233748b4658ca3abab39ffcdc77ab4c9ad657"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/facilities/fac_smelter.json",
+   "size": 603,
+   "sha256": "a0f12cf5b6361ae936828259cb63b03da5856eb1e768c8d2ac6573a482c77138",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/a0f12cf5b6361ae936828259cb63b03d.bin",
+     "size": 603,
+     "sha256": "a0f12cf5b6361ae936828259cb63b03da5856eb1e768c8d2ac6573a482c77138"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/frames/frame_capital_mk1.json",
+   "size": 13882,
+   "sha256": "b2a31c77580247f309fb8e4e2d9965c0cb015d70e71d75aff4e52572c9e9c665",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/b2a31c77580247f309fb8e4e2d9965c0.bin",
+     "size": 13882,
+     "sha256": "b2a31c77580247f309fb8e4e2d9965c0cb015d70e71d75aff4e52572c9e9c665"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/frames/frame_dread_mk1.json",
+   "size": 21117,
+   "sha256": "2b4e416a52a7662fb40a7ba8f2a71ede84dbacb85a9844ae949c83cdd48bec95",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/2b4e416a52a7662fb40a7ba8f2a71ede.bin",
+     "size": 21117,
+     "sha256": "2b4e416a52a7662fb40a7ba8f2a71ede84dbacb85a9844ae949c83cdd48bec95"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/frames/frame_drover_mk1.json",
+   "size": 9661,
+   "sha256": "41f9ad5c0dfa5ca52c5f3c50414c201abbc34f6dd11efeba965470ccee399d95",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/41f9ad5c0dfa5ca52c5f3c50414c201a.bin",
+     "size": 9661,
+     "sha256": "41f9ad5c0dfa5ca52c5f3c50414c201abbc34f6dd11efeba965470ccee399d95"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/frames/frame_pilgrim_mk1.json",
+   "size": 15377,
+   "sha256": "471532763fa7de80c0a4b3c4fb89b305d3bf15d52485520a4df19ca9831388e6",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/471532763fa7de80c0a4b3c4fb89b305.bin",
+     "size": 15377,
+     "sha256": "471532763fa7de80c0a4b3c4fb89b305d3bf15d52485520a4df19ca9831388e6"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/frames/frame_pod_mk1.json",
+   "size": 5950,
+   "sha256": "da6efa201c98afafe9dcc2cb73b324251e828632ab147d53d4449ef2419496cc",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/da6efa201c98afafe9dcc2cb73b32425.bin",
+     "size": 5950,
+     "sha256": "da6efa201c98afafe9dcc2cb73b324251e828632ab147d53d4449ef2419496cc"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/frames/frame_skiff_mk1.json",
+   "size": 7845,
+   "sha256": "d009c0f7df8d5dbb5f8733a34fdf61f4dbfd5bff5f226119ec423d092cbcc767",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/d009c0f7df8d5dbb5f8733a34fdf61f4.bin",
+     "size": 7845,
+     "sha256": "d009c0f7df8d5dbb5f8733a34fdf61f4dbfd5bff5f226119ec423d092cbcc767"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/missions/builder.json",
+   "size": 4548,
+   "sha256": "df87a8b7756f93f213767bb48f365780fa254f4894109e63d8fbd35da2af8d1a",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/df87a8b7756f93f213767bb48f365780.bin",
+     "size": 4548,
+     "sha256": "df87a8b7756f93f213767bb48f365780fa254f4894109e63d8fbd35da2af8d1a"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/missions/homestead.json",
+   "size": 3611,
+   "sha256": "0f60d68843715b753d24abbd4ac4bd858e23dbc23c139cd245b9a72b01c91341",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/0f60d68843715b753d24abbd4ac4bd85.bin",
+     "size": 3611,
+     "sha256": "0f60d68843715b753d24abbd4ac4bd858e23dbc23c139cd245b9a72b01c91341"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/missions/story.json",
+   "size": 2831,
+   "sha256": "10fd0bef6018d2d18c69628eb4de4ec6916221eeaec0da206a0b7f0cc0cf4fca",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/10fd0bef6018d2d18c69628eb4de4ec6.bin",
+     "size": 2831,
+     "sha256": "10fd0bef6018d2d18c69628eb4de4ec6916221eeaec0da206a0b7f0cc0cf4fca"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/missions/tutorial.json",
+   "size": 5027,
+   "sha256": "1e1efd6ce35b5393bce772415d8befc64709772675e3e46d045144770610f272",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/1e1efd6ce35b5393bce772415d8befc6.bin",
+     "size": 5027,
+     "sha256": "1e1efd6ce35b5393bce772415d8befc64709772675e3e46d045144770610f272"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/cargo_bay_s.json",
+   "size": 890,
+   "sha256": "c06cd13423e023500515751f0a7ac8cfa2265f79faceb07e93801c493c6ddbd8",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/c06cd13423e023500515751f0a7ac8cf.bin",
+     "size": 890,
+     "sha256": "c06cd13423e023500515751f0a7ac8cfa2265f79faceb07e93801c493c6ddbd8"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/cargo_hold_l.json",
+   "size": 795,
+   "sha256": "bd4014e15024ee72ee0a7d61de5140f8ec4b6e2bb2e8a652fa2e065a4c5c05f0",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/bd4014e15024ee72ee0a7d61de5140f8.bin",
+     "size": 795,
+     "sha256": "bd4014e15024ee72ee0a7d61de5140f8ec4b6e2bb2e8a652fa2e065a4c5c05f0"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/cargo_hold_m.json",
+   "size": 797,
+   "sha256": "99859f832421305c18c903096d692d9d04cfd0505104cba262b852aba7e50e45",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/99859f832421305c18c903096d692d9d.bin",
+     "size": 797,
+     "sha256": "99859f832421305c18c903096d692d9d04cfd0505104cba262b852aba7e50e45"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/cargo_rack_t.json",
+   "size": 844,
+   "sha256": "21557ccd1229fe87a076d87346b99bfe4a5093cdb47d930d6e580b241fe950b7",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/21557ccd1229fe87a076d87346b99bfe.bin",
+     "size": 844,
+     "sha256": "21557ccd1229fe87a076d87346b99bfe4a5093cdb47d930d6e580b241fe950b7"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/cockpit_corp_glass.json",
+   "size": 874,
+   "sha256": "b3fb1f5b4840a5cbea2cc6204f93c6d30476c149f76857c7051c7df362c248ff",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/b3fb1f5b4840a5cbea2cc6204f93c6d3.bin",
+     "size": 874,
+     "sha256": "b3fb1f5b4840a5cbea2cc6204f93c6d30476c149f76857c7051c7df362c248ff"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/cockpit_pod_t.json",
+   "size": 842,
+   "sha256": "5a7bd5a0ace7a38f004faf7b5c2ca8a688053ea22cece36f868323ee8c50868e",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/5a7bd5a0ace7a38f004faf7b5c2ca8a6.bin",
+     "size": 842,
+     "sha256": "5a7bd5a0ace7a38f004faf7b5c2ca8a688053ea22cece36f868323ee8c50868e"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/cockpit_skiff_open.json",
+   "size": 859,
+   "sha256": "6ae6cddc07a50ca511626905fa36931d45b94b061bf11e03587b5426b2f52415",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/6ae6cddc07a50ca511626905fa36931d.bin",
+     "size": 859,
+     "sha256": "6ae6cddc07a50ca511626905fa36931d45b94b061bf11e03587b5426b2f52415"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/engine_chem_s.json",
+   "size": 890,
+   "sha256": "a546ad0169b94ffff118908085d29e8bb7730c3b49ff1289a963e319307dbb6d",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/a546ad0169b94ffff118908085d29e8b.bin",
+     "size": 890,
+     "sha256": "a546ad0169b94ffff118908085d29e8bb7730c3b49ff1289a963e319307dbb6d"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/engine_chem_t.json",
+   "size": 910,
+   "sha256": "b02d7a40ae416cf2b1510b06217d7478fb4e4e2d342a69903ee3648d40f2c9ba",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/b02d7a40ae416cf2b1510b06217d7478.bin",
+     "size": 910,
+     "sha256": "b02d7a40ae416cf2b1510b06217d7478fb4e4e2d342a69903ee3648d40f2c9ba"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/engine_fusion_l.json",
+   "size": 813,
+   "sha256": "519ecfa66f5da3fdfade8240b8f94e192389b3bfdcf0dcece4f015c9b2572f2e",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/519ecfa66f5da3fdfade8240b8f94e19.bin",
+     "size": 813,
+     "sha256": "519ecfa66f5da3fdfade8240b8f94e192389b3bfdcf0dcece4f015c9b2572f2e"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/engine_fusion_m.json",
+   "size": 814,
+   "sha256": "6e6e7f5183393b9f133eab15359794916696924cd7302e8b8629cb3bd8c4576a",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/6e6e7f5183393b9f133eab1535979491.bin",
+     "size": 814,
+     "sha256": "6e6e7f5183393b9f133eab15359794916696924cd7302e8b8629cb3bd8c4576a"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/engine_ion_s.json",
+   "size": 899,
+   "sha256": "69e3c0df5b03b2e735f38ab93fbfad63522f5f864cd301c91ea26a545b09c93f",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/69e3c0df5b03b2e735f38ab93fbfad63.bin",
+     "size": 899,
+     "sha256": "69e3c0df5b03b2e735f38ab93fbfad63522f5f864cd301c91ea26a545b09c93f"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/fuel_tank_l.json",
+   "size": 770,
+   "sha256": "b2483082dd7e27cb38e0b8c2ad07dc9e426a233b73fcac9f61aeae7482e4cc75",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/b2483082dd7e27cb38e0b8c2ad07dc9e.bin",
+     "size": 770,
+     "sha256": "b2483082dd7e27cb38e0b8c2ad07dc9e426a233b73fcac9f61aeae7482e4cc75"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/fuel_tank_m.json",
+   "size": 716,
+   "sha256": "19dc4d35b341528fd04bd58a4b58d660d74124598cc0dad4f442aae913e8085a",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/19dc4d35b341528fd04bd58a4b58d660.bin",
+     "size": 716,
+     "sha256": "19dc4d35b341528fd04bd58a4b58d660d74124598cc0dad4f442aae913e8085a"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/fuel_tank_s.json",
+   "size": 812,
+   "sha256": "2da0124431e6365ee92bef1e72bf73090f27d01e1bd60dcb37674c0c75a1925f",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/2da0124431e6365ee92bef1e72bf7309.bin",
+     "size": 812,
+     "sha256": "2da0124431e6365ee92bef1e72bf73090f27d01e1bd60dcb37674c0c75a1925f"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/fuel_tank_t.json",
+   "size": 804,
+   "sha256": "6b1ace1ff5f708260d372fdd1a8a41367f5085310c389733be6511b1462dd753",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/6b1ace1ff5f708260d372fdd1a8a4136.bin",
+     "size": 804,
+     "sha256": "6b1ace1ff5f708260d372fdd1a8a41367f5085310c389733be6511b1462dd753"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/gear_strut_l.json",
+   "size": 930,
+   "sha256": "a14f0dc50c9e8a921184ce05e96d44e75fb61358bc5a0064e561386f960313d6",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/a14f0dc50c9e8a921184ce05e96d44e7.bin",
+     "size": 930,
+     "sha256": "a14f0dc50c9e8a921184ce05e96d44e75fb61358bc5a0064e561386f960313d6"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/gear_strut_s.json",
+   "size": 805,
+   "sha256": "02a5014523ff25fb87c2afb3b5d3f84777f040c60cc688909082f87d40966010",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/02a5014523ff25fb87c2afb3b5d3f847.bin",
+     "size": 805,
+     "sha256": "02a5014523ff25fb87c2afb3b5d3f84777f040c60cc688909082f87d40966010"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/gear_strut_t.json",
+   "size": 806,
+   "sha256": "351b5a7a4f595b0ac8f869b78ca19354a6acc207bf8f5b8fe0b7387c0bb0f9f5",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/351b5a7a4f595b0ac8f869b78ca19354.bin",
+     "size": 806,
+     "sha256": "351b5a7a4f595b0ac8f869b78ca19354a6acc207bf8f5b8fe0b7387c0bb0f9f5"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/gear_wheel_s.json",
+   "size": 929,
+   "sha256": "e6b3d38dc611614a34931d37c14a8fb5bf210eb50f837d0dc0d9ad8e4e05525d",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/e6b3d38dc611614a34931d37c14a8fb5.bin",
+     "size": 929,
+     "sha256": "e6b3d38dc611614a34931d37c14a8fb5bf210eb50f837d0dc0d9ad8e4e05525d"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/gun_autocannon_t.json",
+   "size": 1084,
+   "sha256": "caba27ee4f1370593ac95b607f33bfda295c4c80e00d7e005026ccfa7a17e64d",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/caba27ee4f1370593ac95b607f33bfda.bin",
+     "size": 1084,
+     "sha256": "caba27ee4f1370593ac95b607f33bfda295c4c80e00d7e005026ccfa7a17e64d"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/gun_laser_t.json",
+   "size": 1089,
+   "sha256": "0e21e9d29fdc49ba6380b69d935c8e50c3b97045c9bb8aafdb782a4fefd8d0a4",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/0e21e9d29fdc49ba6380b69d935c8e50.bin",
+     "size": 1089,
+     "sha256": "0e21e9d29fdc49ba6380b69d935c8e50c3b97045c9bb8aafdb782a4fefd8d0a4"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/gun_railgun_s.json",
+   "size": 1211,
+   "sha256": "21657d3d5d5e034107d82b8e43bb887775feece70a2ff6a5e16f98c7f18df3de",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/21657d3d5d5e034107d82b8e43bb8877.bin",
+     "size": 1211,
+     "sha256": "21657d3d5d5e034107d82b8e43bb887775feece70a2ff6a5e16f98c7f18df3de"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/gun_turret_l.json",
+   "size": 1175,
+   "sha256": "cd2ce036ce8f995d28d3ef61a70c95add01ab27700c10964952ff4480f3c2a67",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/cd2ce036ce8f995d28d3ef61a70c95ad.bin",
+     "size": 1175,
+     "sha256": "cd2ce036ce8f995d28d3ef61a70c95add01ab27700c10964952ff4480f3c2a67"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/gun_turret_m.json",
+   "size": 1110,
+   "sha256": "ff17f4898f85684b8fc3651d413ba4f64bfa5d86aadd406ff4d1f5da5412e557",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/ff17f4898f85684b8fc3651d413ba4f6.bin",
+     "size": 1110,
+     "sha256": "ff17f4898f85684b8fc3651d413ba4f64bfa5d86aadd406ff4d1f5da5412e557"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/hab_airlock_s.json",
+   "size": 863,
+   "sha256": "b4070b42345a215fc8d028a9ef0c733b30ca5518b19ace9be343756a166eace9",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/b4070b42345a215fc8d028a9ef0c733b.bin",
+     "size": 863,
+     "sha256": "b4070b42345a215fc8d028a9ef0c733b30ca5518b19ace9be343756a166eace9"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/hab_block_m.json",
+   "size": 826,
+   "sha256": "104635593d040b952daa63fcc18654d0a2203ef7a0660ddad2684b442758c8bf",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/104635593d040b952daa63fcc18654d0.bin",
+     "size": 826,
+     "sha256": "104635593d040b952daa63fcc18654d0a2203ef7a0660ddad2684b442758c8bf"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/hab_bunk_t.json",
+   "size": 761,
+   "sha256": "49441a033ec26f64badbe5182c05383a4f422d3fb565505263a2725cd57491e4",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/49441a033ec26f64badbe5182c05383a.bin",
+     "size": 761,
+     "sha256": "49441a033ec26f64badbe5182c05383a4f422d3fb565505263a2725cd57491e4"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/hab_galley_s.json",
+   "size": 802,
+   "sha256": "663858b50235edec8c3c8930ecbf3deb80e7a30525d667f69dd9a6531c8678aa",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/663858b50235edec8c3c8930ecbf3deb.bin",
+     "size": 802,
+     "sha256": "663858b50235edec8c3c8930ecbf3deb80e7a30525d667f69dd9a6531c8678aa"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/hab_lounge_m.json",
+   "size": 762,
+   "sha256": "e6567d6d5af84a7fc4661d367bf26a2c4d3994c442ff80f0d6a2810793f50d63",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/e6567d6d5af84a7fc4661d367bf26a2c.bin",
+     "size": 762,
+     "sha256": "e6567d6d5af84a7fc4661d367bf26a2c4d3994c442ff80f0d6a2810793f50d63"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/hab_medbay_s.json",
+   "size": 844,
+   "sha256": "460fdd71222e23bd4f2676213ae63622a2eb4efbf926d07f2a39d1e8ae20d39b",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/460fdd71222e23bd4f2676213ae63622.bin",
+     "size": 844,
+     "sha256": "460fdd71222e23bd4f2676213ae63622a2eb4efbf926d07f2a39d1e8ae20d39b"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/hab_quarters_m.json",
+   "size": 746,
+   "sha256": "5830d4a8fd2b6df260212c63b8ce2d8a85e2f7843fbbfa0b3e2b62abaebb01d7",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/5830d4a8fd2b6df260212c63b8ce2d8a.bin",
+     "size": 746,
+     "sha256": "5830d4a8fd2b6df260212c63b8ce2d8a85e2f7843fbbfa0b3e2b62abaebb01d7"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/hab_quarters_s.json",
+   "size": 795,
+   "sha256": "78dd3ac14ae36c85b46a794b25c150234e5fc68ba7bb3c8434cce30d6482f4fa",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/78dd3ac14ae36c85b46a794b25c15023.bin",
+     "size": 795,
+     "sha256": "78dd3ac14ae36c85b46a794b25c150234e5fc68ba7bb3c8434cce30d6482f4fa"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/hab_washroom_s.json",
+   "size": 752,
+   "sha256": "a8bf33674367e3fe63894b01e26fe0d5ae89abbe77f06694b2c61d7b6e7609e1",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/a8bf33674367e3fe63894b01e26fe0d5.bin",
+     "size": 752,
+     "sha256": "a8bf33674367e3fe63894b01e26fe0d5ae89abbe77f06694b2c61d7b6e7609e1"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/missile_rack_t.json",
+   "size": 1229,
+   "sha256": "7130e3097f47ea20c775d2013a74716ebf57b8e4673ce2ba82014d53f634dc0d",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/7130e3097f47ea20c775d2013a74716e.bin",
+     "size": 1229,
+     "sha256": "7130e3097f47ea20c775d2013a74716ebf57b8e4673ce2ba82014d53f634dc0d"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/pd_turret_t.json",
+   "size": 1296,
+   "sha256": "c0c6d67f349900afe6f837312547624e634805ec1f872dbde26f3cd8ecea0365",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/c0c6d67f349900afe6f837312547624e.bin",
+     "size": 1296,
+     "sha256": "c0c6d67f349900afe6f837312547624e634805ec1f872dbde26f3cd8ecea0365"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/qdrive_s.json",
+   "size": 854,
+   "sha256": "0fa9bf899177cf85510d8eebbd11eaa9b1467dbdb3a361715e3f8d0323391eb0",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/0fa9bf899177cf85510d8eebbd11eaa9.bin",
+     "size": 854,
+     "sha256": "0fa9bf899177cf85510d8eebbd11eaa9b1467dbdb3a361715e3f8d0323391eb0"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/qdrive_t.json",
+   "size": 867,
+   "sha256": "2fcf97ee970ebbde09c7aab17cc732728eb0cab38406e465c0ccf8c45387bd31",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/2fcf97ee970ebbde09c7aab17cc73272.bin",
+     "size": 867,
+     "sha256": "2fcf97ee970ebbde09c7aab17cc732728eb0cab38406e465c0ccf8c45387bd31"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/radiator_bank_m.json",
+   "size": 748,
+   "sha256": "5158c8253f7636d876ef89a5b846e1d88e3f868eab1aaffd32c8634dc19870cd",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/5158c8253f7636d876ef89a5b846e1d8.bin",
+     "size": 748,
+     "sha256": "5158c8253f7636d876ef89a5b846e1d88e3f868eab1aaffd32c8634dc19870cd"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/radiator_panel_s.json",
+   "size": 885,
+   "sha256": "dd3ef8ae147c7f9b0e5f570e799600e4b6f92bf7ddba22e4e4b9d9097cc14f0c",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/dd3ef8ae147c7f9b0e5f570e799600e4.bin",
+     "size": 885,
+     "sha256": "dd3ef8ae147c7f9b0e5f570e799600e4b6f92bf7ddba22e4e4b9d9097cc14f0c"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/radiator_strip_t.json",
+   "size": 869,
+   "sha256": "bfc664b002351c7e17f65be789351236116d007501105836cfb335914cfbb12e",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/bfc664b002351c7e17f65be789351236.bin",
+     "size": 869,
+     "sha256": "bfc664b002351c7e17f65be789351236116d007501105836cfb335914cfbb12e"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/radiator_vane_s.json",
+   "size": 1010,
+   "sha256": "37ef9913eae3318059db31f8ca45807e8fafa56cc9c78eae00b5a3ff00efdaee",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/37ef9913eae3318059db31f8ca45807e.bin",
+     "size": 1010,
+     "sha256": "37ef9913eae3318059db31f8ca45807e8fafa56cc9c78eae00b5a3ff00efdaee"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/reactor_cell_t.json",
+   "size": 916,
+   "sha256": "8009942942f5940dcc6e5b77982fc7354fd68c417ac0d7bb822ae528825ef9ae",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/8009942942f5940dcc6e5b77982fc735.bin",
+     "size": 916,
+     "sha256": "8009942942f5940dcc6e5b77982fc7354fd68c417ac0d7bb822ae528825ef9ae"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/reactor_fission_s.json",
+   "size": 900,
+   "sha256": "fbcd73c168d2aab0c4a23e29bc506134f1d5326a572a168bcbd414b06e183eb7",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/fbcd73c168d2aab0c4a23e29bc506134.bin",
+     "size": 900,
+     "sha256": "fbcd73c168d2aab0c4a23e29bc506134f1d5326a572a168bcbd414b06e183eb7"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/reactor_fusion_l.json",
+   "size": 885,
+   "sha256": "04c2a6d732ee8ab3f26672b3f9a5c8400424beb98866e5c150dc130d77b1f6f2",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/04c2a6d732ee8ab3f26672b3f9a5c840.bin",
+     "size": 885,
+     "sha256": "04c2a6d732ee8ab3f26672b3f9a5c8400424beb98866e5c150dc130d77b1f6f2"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/reactor_fusion_m.json",
+   "size": 837,
+   "sha256": "51eeccfe9cc2f64d754c69fdbc9040e26d360f94130c16624cfaf656d58583aa",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/51eeccfe9cc2f64d754c69fdbc9040e2.bin",
+     "size": 837,
+     "sha256": "51eeccfe9cc2f64d754c69fdbc9040e26d360f94130c16624cfaf656d58583aa"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/reactor_fusion_s.json",
+   "size": 925,
+   "sha256": "b21cb20655018047abda9d189ba90f3826ed836bd515326ce5547bc25b269f73",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/b21cb20655018047abda9d189ba90f38.bin",
+     "size": 925,
+     "sha256": "b21cb20655018047abda9d189ba90f3826ed836bd515326ce5547bc25b269f73"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/sensor_active_t.json",
+   "size": 888,
+   "sha256": "1516512a9d4050db1d318a4beb8d64ec6a76af3f6c81d074655af34c8b32bc9b",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/1516512a9d4050db1d318a4beb8d64ec.bin",
+     "size": 888,
+     "sha256": "1516512a9d4050db1d318a4beb8d64ec6a76af3f6c81d074655af34c8b32bc9b"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/sensor_passive_t.json",
+   "size": 904,
+   "sha256": "122dbb4fb2026b55ccb5bf388452ffd4d7ae2cb3780b145cb02df580d1e8f848",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/122dbb4fb2026b55ccb5bf388452ffd4.bin",
+     "size": 904,
+     "sha256": "122dbb4fb2026b55ccb5bf388452ffd4d7ae2cb3780b145cb02df580d1e8f848"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/shield_dome_m.json",
+   "size": 803,
+   "sha256": "ead051476de9b107fc4a4951974fbad9bc59f5b5b31a9a0af3f60ccd754d231d",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/ead051476de9b107fc4a4951974fbad9.bin",
+     "size": 803,
+     "sha256": "ead051476de9b107fc4a4951974fbad9bc59f5b5b31a9a0af3f60ccd754d231d"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/shield_emitter_t.json",
+   "size": 813,
+   "sha256": "4119b6494d7c8748e882c981323ccb5a73b222fb0470f3a7f36e0caae072fb6c",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/4119b6494d7c8748e882c981323ccb5a.bin",
+     "size": 813,
+     "sha256": "4119b6494d7c8748e882c981323ccb5a73b222fb0470f3a7f36e0caae072fb6c"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/terminal_mfd_t.json",
+   "size": 818,
+   "sha256": "f6893350b831cc68e05599f0af9bf1f5c62a389084aae0aab76b6c3ba2b8650e",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/f6893350b831cc68e05599f0af9bf1f5.bin",
+     "size": 818,
+     "sha256": "f6893350b831cc68e05599f0af9bf1f5c62a389084aae0aab76b6c3ba2b8650e"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/thruster_rcs_m.json",
+   "size": 778,
+   "sha256": "2fe268b0555cadf58333997d17b00d76bf857fd7065a252e4f9f2eec0eaa1fd3",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/2fe268b0555cadf58333997d17b00d76.bin",
+     "size": 778,
+     "sha256": "2fe268b0555cadf58333997d17b00d76bf857fd7065a252e4f9f2eec0eaa1fd3"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/thruster_rcs_mil_t.json",
+   "size": 902,
+   "sha256": "8f693f16c6c28dc0737ffb3de7e98187c2aad7a4d06e7e6a608d2d88ae79e23e",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/8f693f16c6c28dc0737ffb3de7e98187.bin",
+     "size": 902,
+     "sha256": "8f693f16c6c28dc0737ffb3de7e98187c2aad7a4d06e7e6a608d2d88ae79e23e"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/thruster_rcs_t.json",
+   "size": 862,
+   "sha256": "bab5343659e497de5596324e7f5c77ccc23f7bda3765c43c317a0d324c773a50",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/bab5343659e497de5596324e7f5c77cc.bin",
+     "size": 862,
+     "sha256": "bab5343659e497de5596324e7f5c77ccc23f7bda3765c43c317a0d324c773a50"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/util_compute_s.json",
+   "size": 793,
+   "sha256": "2ef758f5d1975ce57cab10628319c996801026c0cd2d83d2cdb88a218ab68eca",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/2ef758f5d1975ce57cab10628319c996.bin",
+     "size": 793,
+     "sha256": "2ef758f5d1975ce57cab10628319c996801026c0cd2d83d2cdb88a218ab68eca"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/util_engineering_m.json",
+   "size": 803,
+   "sha256": "7c34f4e41a3a90b9958183a643d81d6965bda6f3b3fe4055160d68ce8e7b8276",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/7c34f4e41a3a90b9958183a643d81d69.bin",
+     "size": 803,
+     "sha256": "7c34f4e41a3a90b9958183a643d81d6965bda6f3b3fe4055160d68ce8e7b8276"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/util_hydro_m.json",
+   "size": 776,
+   "sha256": "94ee3e8e60b48a381a4ed3b3551dcb51b2c244404169a799e1b454abdfa49e06",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/94ee3e8e60b48a381a4ed3b3551dcb51.bin",
+     "size": 776,
+     "sha256": "94ee3e8e60b48a381a4ed3b3551dcb51b2c244404169a799e1b454abdfa49e06"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/util_lifesupport_s.json",
+   "size": 794,
+   "sha256": "cf965a629328c5a4ca01ee4c4dbfd9005c7f77673ade760a18623fb129c46e30",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/cf965a629328c5a4ca01ee4c4dbfd900.bin",
+     "size": 794,
+     "sha256": "cf965a629328c5a4ca01ee4c4dbfd9005c7f77673ade760a18623fb129c46e30"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/modules/util_storage_m.json",
+   "size": 693,
+   "sha256": "62cc657d66b48cb41b0bd42d70544490e0c0b7bf5794cc33ebdda8e77902d2bb",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/62cc657d66b48cb41b0bd42d70544490.bin",
+     "size": 693,
+     "sha256": "62cc657d66b48cb41b0bd42d70544490e0c0b7bf5794cc33ebdda8e77902d2bb"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/npcs/town.json",
+   "size": 1836,
+   "sha256": "deea0aa0620bb8c258babf3034c648a3e15c90ff77ecd53757364417670a8526",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/deea0aa0620bb8c258babf3034c648a3.bin",
+     "size": 1836,
+     "sha256": "deea0aa0620bb8c258babf3034c648a3e15c90ff77ecd53757364417670a8526"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/parts/base.json",
+   "size": 5145,
+   "sha256": "70e83ff88c713ccd7f2f54cca1d31580a83e553a5647437d3b95213eccbac7bf",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b40/70e83ff88c713ccd7f2f54cca1d31580.bin",
+     "size": 5145,
+     "sha256": "70e83ff88c713ccd7f2f54cca1d31580a83e553a5647437d3b95213eccbac7bf"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/parts/buttons48.json",
+   "size": 4563,
+   "sha256": "008301a622d56f97fd2390df04855bbee8410d1de7eb94f901c96ad3503e38e1",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b48/008301a622d56f97fd2390df04855bbe.bin",
+     "size": 4563,
+     "sha256": "008301a622d56f97fd2390df04855bbee8410d1de7eb94f901c96ad3503e38e1"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/parts/combat.json",
+   "size": 5978,
+   "sha256": "1c3502d1256b0c714fbcf1e88944be6857384d075521ededc6afdf5065ab3143",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b47/1c3502d1256b0c714fbcf1e88944be68.bin",
+     "size": 5978,
+     "sha256": "1c3502d1256b0c714fbcf1e88944be6857384d075521ededc6afdf5065ab3143"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/parts/crew.json",
+   "size": 12524,
+   "sha256": "974762588bf45333cb2cd3808b8823fed05e134ff077184447c65246f67fbc5c",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b48/974762588bf45333cb2cd3808b8823fe.bin",
+     "size": 12524,
+     "sha256": "974762588bf45333cb2cd3808b8823fed05e134ff077184447c65246f67fbc5c"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/parts/decals.json",
+   "size": 1961,
+   "sha256": "8a1c4f7b64778914c2b5a622cebd02d7d7ccffa3ae88b22bddfb1d77636e6493",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/8a1c4f7b64778914c2b5a622cebd02d7.bin",
+     "size": 1961,
+     "sha256": "8a1c4f7b64778914c2b5a622cebd02d7d7ccffa3ae88b22bddfb1d77636e6493"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/parts/fill.json",
+   "size": 2875,
+   "sha256": "d6e09cc55e5284476eb42edcbdc3c096f95568768c2143dc05678b79e3284b15",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/d6e09cc55e5284476eb42edcbdc3c096.bin",
+     "size": 2875,
+     "sha256": "d6e09cc55e5284476eb42edcbdc3c096f95568768c2143dc05678b79e3284b15"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/parts/frame.json",
+   "size": 1639,
+   "sha256": "9089976e2b895f814142981a6eef7fe79cd1dd487c15ba4de9501804ffb38f78",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/9089976e2b895f814142981a6eef7fe7.bin",
+     "size": 1639,
+     "sha256": "9089976e2b895f814142981a6eef7fe79cd1dd487c15ba4de9501804ffb38f78"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/parts/glass.json",
+   "size": 4071,
+   "sha256": "b16cead872106839eefc32e62c77d33b2f938fe0f86c763b17fadd92e708b007",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b41/b16cead872106839eefc32e62c77d33b.bin",
+     "size": 4071,
+     "sha256": "b16cead872106839eefc32e62c77d33b2f938fe0f86c763b17fadd92e708b007"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/parts/hull.json",
+   "size": 5359,
+   "sha256": "7668a261da746d6a3ec81de922fe95d54d98924aca6f5cadf6f0f2168f2aa204",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b41/7668a261da746d6a3ec81de922fe95d5.bin",
+     "size": 5359,
+     "sha256": "7668a261da746d6a3ec81de922fe95d54d98924aca6f5cadf6f0f2168f2aa204"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/parts/interior.json",
+   "size": 6798,
+   "sha256": "2e7c9b8b5be96e1856612993e29e138c83e49ba9e560e4b1294c8f5836a29ff2",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b45/2e7c9b8b5be96e1856612993e29e138c.bin",
+     "size": 6798,
+     "sha256": "2e7c9b8b5be96e1856612993e29e138c83e49ba9e560e4b1294c8f5836a29ff2"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/parts/lines.json",
+   "size": 3219,
+   "sha256": "9b6cb9e561eea7aa5a041c38d9a5c0b95ac8d9df4cd01ef921793206f80c27bd",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/9b6cb9e561eea7aa5a041c38d9a5c0b9.bin",
+     "size": 3219,
+     "sha256": "9b6cb9e561eea7aa5a041c38d9a5c0b95ac8d9df4cd01ef921793206f80c27bd"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/parts/metal.json",
+   "size": 10007,
+   "sha256": "a86ec70277fec69f51921f6aa89621e963fe23f334ad3f35c4c8f21ef9c5165d",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/a86ec70277fec69f51921f6aa89621e9.bin",
+     "size": 10007,
+     "sha256": "a86ec70277fec69f51921f6aa89621e963fe23f334ad3f35c4c8f21ef9c5165d"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/parts/motion.json",
+   "size": 1846,
+   "sha256": "3137017083be629513848c57d9d709682119367c3f2c234d00668c14e60cf4e9",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/3137017083be629513848c57d9d70968.bin",
+     "size": 1846,
+     "sha256": "3137017083be629513848c57d9d709682119367c3f2c234d00668c14e60cf4e9"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/parts/motion2.json",
+   "size": 6201,
+   "sha256": "36e3e43d45a9f648eb8de4b5dea7d9fa759cf904a77ec092d15f7f048daef27d",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/36e3e43d45a9f648eb8de4b5dea7d9fa.bin",
+     "size": 6201,
+     "sha256": "36e3e43d45a9f648eb8de4b5dea7d9fa759cf904a77ec092d15f7f048daef27d"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/parts/power.json",
+   "size": 8280,
+   "sha256": "c2899eea1185f03a4585b097ba3e0b57bd1fa8b532e7bf631479ecb83b4e881d",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b48/c2899eea1185f03a4585b097ba3e0b57.bin",
+     "size": 8280,
+     "sha256": "c2899eea1185f03a4585b097ba3e0b57bd1fa8b532e7bf631479ecb83b4e881d"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/parts/propulsion.json",
+   "size": 5414,
+   "sha256": "92a91d35fba555816458adb3b7ef7393ec4f2b54ed1bc7a8e177011d5f3bbaf4",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/92a91d35fba555816458adb3b7ef7393.bin",
+     "size": 5414,
+     "sha256": "92a91d35fba555816458adb3b7ef7393ec4f2b54ed1bc7a8e177011d5f3bbaf4"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/parts/propulsion2.json",
+   "size": 7930,
+   "sha256": "92a4ce5c74398a27b2343a9136ac8af8b00b8c02a31d0f68361c005a3d481c3e",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/92a4ce5c74398a27b2343a9136ac8af8.bin",
+     "size": 7930,
+     "sha256": "92a4ce5c74398a27b2343a9136ac8af8b00b8c02a31d0f68361c005a3d481c3e"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/parts/station.json",
+   "size": 2347,
+   "sha256": "d379bb63ceb191d2db11cab2e135d6f8d6b2400259d78642ccd30e0e37231a99",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b48/d379bb63ceb191d2db11cab2e135d6f8.bin",
+     "size": 2347,
+     "sha256": "d379bb63ceb191d2db11cab2e135d6f8d6b2400259d78642ccd30e0e37231a99"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/parts/systems2.json",
+   "size": 4734,
+   "sha256": "b13c8377d1938f480fe29acb24b1ad08fbeba57ac2e43dd66bc1833e4cdd1327",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b48/b13c8377d1938f480fe29acb24b1ad08.bin",
+     "size": 4734,
+     "sha256": "b13c8377d1938f480fe29acb24b1ad08fbeba57ac2e43dd66bc1833e4cdd1327"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/parts/systems47.json",
+   "size": 33334,
+   "sha256": "3f32576cb488b707f28913b1ebe437e9274582b1a4aaf95372e3aa5342a211aa",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b47/3f32576cb488b707f28913b1ebe437e9.bin",
+     "size": 33334,
+     "sha256": "3f32576cb488b707f28913b1ebe437e9274582b1a4aaf95372e3aa5342a211aa"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/parts/weapons.json",
+   "size": 18376,
+   "sha256": "415acb6b22c172cf692a3cd55eb839bbf4f741dfe0c1798ee48745ab093f50e8",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b47/415acb6b22c172cf692a3cd55eb839bb.bin",
+     "size": 18376,
+     "sha256": "415acb6b22c172cf692a3cd55eb839bbf4f741dfe0c1798ee48745ab093f50e8"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/planets/haldreach.json",
+   "size": 7200,
+   "sha256": "4f868325b3eb99d22e0132ddd2b3b2768ccece55dc32872657b29db14d51cf3b",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/4f868325b3eb99d22e0132ddd2b3b276.bin",
+     "size": 7200,
+     "sha256": "4f868325b3eb99d22e0132ddd2b3b2768ccece55dc32872657b29db14d51cf3b"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/planets/morfell.json",
+   "size": 7696,
+   "sha256": "b5cde3724054dcac0fe551312e2ca470d6c89768201a917e72e6f0af237c3b92",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/b5cde3724054dcac0fe551312e2ca470.bin",
+     "size": 7696,
+     "sha256": "b5cde3724054dcac0fe551312e2ca470d6c89768201a917e72e6f0af237c3b92"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/planets/nokmir.json",
+   "size": 5281,
+   "sha256": "8713da53c43c438e8b2b1e82de59de906c69975719dfc8f11539d968905cb638",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/8713da53c43c438e8b2b1e82de59de90.bin",
+     "size": 5281,
+     "sha256": "8713da53c43c438e8b2b1e82de59de906c69975719dfc8f11539d968905cb638"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/planets/tammir.json",
+   "size": 4721,
+   "sha256": "7aa92ec9b3bb7042dc592cf8362fdd04b67087fd526fa0ae8b82d012ff304e8f",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/7aa92ec9b3bb7042dc592cf8362fdd04.bin",
+     "size": 4721,
+     "sha256": "7aa92ec9b3bb7042dc592cf8362fdd04b67087fd526fa0ae8b82d012ff304e8f"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/planets/termir.json",
+   "size": 6558,
+   "sha256": "44e134471af853d146a973e710ef1a2cbf143217e82dc7897f28556c2b6be412",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/44e134471af853d146a973e710ef1a2c.bin",
+     "size": 6558,
+     "sha256": "44e134471af853d146a973e710ef1a2cbf143217e82dc7897f28556c2b6be412"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/planets/varnmark.json",
+   "size": 4578,
+   "sha256": "79662f053b4e0977c23ff5e8868ded2a0b9e2fba65cab9d3967c7a7c94d81ae0",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/79662f053b4e0977c23ff5e8868ded2a.bin",
+     "size": 4578,
+     "sha256": "79662f053b4e0977c23ff5e8868ded2a0b9e2fba65cab9d3967c7a7c94d81ae0"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/prefabs/deko_street.json",
+   "size": 84926,
+   "sha256": "02885ae12903c82bd89edbf7e0d62b4be9d14d023fd27f179b9878ca44f7aeca",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/02885ae12903c82bd89edbf7e0d62b4b.bin",
+     "size": 84926,
+     "sha256": "02885ae12903c82bd89edbf7e0d62b4be9d14d023fd27f179b9878ca44f7aeca"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/prefabs/lp_houses.json",
+   "size": 87599,
+   "sha256": "0aae06d849a27e75135dddad362ef41c702a9da0cee669c97cdb170ab8c18ae8",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/0aae06d849a27e75135dddad362ef41c.bin",
+     "size": 87599,
+     "sha256": "0aae06d849a27e75135dddad362ef41c702a9da0cee669c97cdb170ab8c18ae8"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/prefabs/soul_slum.json",
+   "size": 576617,
+   "sha256": "8d4fc6f662c226aba51b3459fa09e7654d69df50ddc0c53737108177f6c41382",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/8d4fc6f662c226aba51b3459fa09e765.bin",
+     "size": 576617,
+     "sha256": "8d4fc6f662c226aba51b3459fa09e7654d69df50ddc0c53737108177f6c41382"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/property_kinds/berth.json",
+   "size": 313,
+   "sha256": "ce349841c76fe8837bf3353baf2023939be019c80cf580d680cd7a906d5080c2",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/ce349841c76fe8837bf3353baf202393.bin",
+     "size": 313,
+     "sha256": "ce349841c76fe8837bf3353baf2023939be019c80cf580d680cd7a906d5080c2"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/property_kinds/hangar.json",
+   "size": 318,
+   "sha256": "c203dc5a6be295f556e759b2d40f275392a800bef1a5a44053b1f0a1bc769dbf",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/c203dc5a6be295f556e759b2d40f2753.bin",
+     "size": 318,
+     "sha256": "c203dc5a6be295f556e759b2d40f275392a800bef1a5a44053b1f0a1bc769dbf"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/property_kinds/room.json",
+   "size": 282,
+   "sha256": "6b7107ecc2786e401c927a8eafb87fa1ed0cba8ccabebdad16c26c33b3ad7471",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/6b7107ecc2786e401c927a8eafb87fa1.bin",
+     "size": 282,
+     "sha256": "6b7107ecc2786e401c927a8eafb87fa1ed0cba8ccabebdad16c26c33b3ad7471"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/property_kinds/warehouse.json",
+   "size": 279,
+   "sha256": "723e42ba5f21d3ae1d248200073c4157a18eb79aa07e95c8b74cef6d95b9101b",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/723e42ba5f21d3ae1d248200073c4157.bin",
+     "size": 279,
+     "sha256": "723e42ba5f21d3ae1d248200073c4157a18eb79aa07e95c8b74cef6d95b9101b"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/property_kinds/workshop.json",
+   "size": 293,
+   "sha256": "8568f97a34eb21c0c15c1383ff32096080f44bcc21dd9642358a4126ce4acd12",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/8568f97a34eb21c0c15c1383ff320960.bin",
+     "size": 293,
+     "sha256": "8568f97a34eb21c0c15c1383ff32096080f44bcc21dd9642358a4126ce4acd12"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/resources/gas_hydrogen.json",
+   "size": 421,
+   "sha256": "24404029c8d428f5ae003028d3e33f890195840482b6ecc05ca4b66a73f37766",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/24404029c8d428f5ae003028d3e33f89.bin",
+     "size": 421,
+     "sha256": "24404029c8d428f5ae003028d3e33f890195840482b6ecc05ca4b66a73f37766"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/resources/ice_water.json",
+   "size": 430,
+   "sha256": "4db23a435810969fac8562ec0d15936f1be4e2893ed8a489e634193ae125c1ce",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/4db23a435810969fac8562ec0d15936f.bin",
+     "size": 430,
+     "sha256": "4db23a435810969fac8562ec0d15936f1be4e2893ed8a489e634193ae125c1ce"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/resources/mat_aluminium.json",
+   "size": 388,
+   "sha256": "2e136ba25844249c57cd488e55e50594e6903c8097c680ea6d2cc102dd809c4b",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/2e136ba25844249c57cd488e55e50594.bin",
+     "size": 388,
+     "sha256": "2e136ba25844249c57cd488e55e50594e6903c8097c680ea6d2cc102dd809c4b"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/resources/mat_copper.json",
+   "size": 384,
+   "sha256": "4d2b705fead940e5fab3932e557b8c4230b59b7d7bd0d1c9df9f41e7d0445b91",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/4d2b705fead940e5fab3932e557b8c42.bin",
+     "size": 384,
+     "sha256": "4d2b705fead940e5fab3932e557b8c4230b59b7d7bd0d1c9df9f41e7d0445b91"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/resources/mat_glass.json",
+   "size": 370,
+   "sha256": "b630ec55b6897469d57137598d0b13b5caff54e2ec618d4be9d6822a1e241ad5",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/b630ec55b6897469d57137598d0b13b5.bin",
+     "size": 370,
+     "sha256": "b630ec55b6897469d57137598d0b13b5caff54e2ec618d4be9d6822a1e241ad5"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/resources/mat_magnet.json",
+   "size": 409,
+   "sha256": "845377365d87cca635a5316e72bdb250a8fcaab377b0b58281c92d9669d9b514",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/845377365d87cca635a5316e72bdb250.bin",
+     "size": 409,
+     "sha256": "845377365d87cca635a5316e72bdb250a8fcaab377b0b58281c92d9669d9b514"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/resources/mat_polymer.json",
+   "size": 397,
+   "sha256": "0cc8c66ad30e0b936b2d99ba5e0ef5b6910c2282d4640b70a9965c28f9a9f8d7",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/0cc8c66ad30e0b936b2d99ba5e0ef5b6.bin",
+     "size": 397,
+     "sha256": "0cc8c66ad30e0b936b2d99ba5e0ef5b6910c2282d4640b70a9965c28f9a9f8d7"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/resources/mat_steel.json",
+   "size": 408,
+   "sha256": "c6b1e8f8fba7896d774893fa5019b473237ec1d19543c53f2ac62c66669908c8",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/c6b1e8f8fba7896d774893fa5019b473.bin",
+     "size": 408,
+     "sha256": "c6b1e8f8fba7896d774893fa5019b473237ec1d19543c53f2ac62c66669908c8"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/resources/mat_titanium.json",
+   "size": 420,
+   "sha256": "040a40bd86d22558fc3d33eb2d59e7c50fb7adb211ec329f256ce90547a72834",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/040a40bd86d22558fc3d33eb2d59e7c5.bin",
+     "size": 420,
+     "sha256": "040a40bd86d22558fc3d33eb2d59e7c50fb7adb211ec329f256ce90547a72834"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/resources/mat_wafer.json",
+   "size": 408,
+   "sha256": "bc4a1cb063522a84b0c6acbe8ad5b0c098312756952ecf8c57c9d4809c43d13f",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/bc4a1cb063522a84b0c6acbe8ad5b0c0.bin",
+     "size": 408,
+     "sha256": "bc4a1cb063522a84b0c6acbe8ad5b0c098312756952ecf8c57c9d4809c43d13f"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/resources/ore_aluminium.json",
+   "size": 425,
+   "sha256": "fb5b9bdaf3bc4912e07dbddc165e89d6e15260ad85f0145207930accb533dab5",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/fb5b9bdaf3bc4912e07dbddc165e89d6.bin",
+     "size": 425,
+     "sha256": "fb5b9bdaf3bc4912e07dbddc165e89d6e15260ad85f0145207930accb533dab5"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/resources/ore_carbon.json",
+   "size": 432,
+   "sha256": "57818f6a2e499edd531f43e0bd6ce88a725579f3229495d493a54a90cda7a2cf",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/57818f6a2e499edd531f43e0bd6ce88a.bin",
+     "size": 432,
+     "sha256": "57818f6a2e499edd531f43e0bd6ce88a725579f3229495d493a54a90cda7a2cf"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/resources/ore_copper.json",
+   "size": 410,
+   "sha256": "41bff4e85a59643adfb5393aeec8dbff9287a63a969e7bb0900102796d1bda59",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/41bff4e85a59643adfb5393aeec8dbff.bin",
+     "size": 410,
+     "sha256": "41bff4e85a59643adfb5393aeec8dbff9287a63a969e7bb0900102796d1bda59"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/resources/ore_iron.json",
+   "size": 422,
+   "sha256": "5609f1dc5797cfd6bc16419b8aa67b5ec8359a60d6234bd68fe66bf6e55d01e8",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/5609f1dc5797cfd6bc16419b8aa67b5e.bin",
+     "size": 422,
+     "sha256": "5609f1dc5797cfd6bc16419b8aa67b5ec8359a60d6234bd68fe66bf6e55d01e8"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/resources/ore_rare_earth.json",
+   "size": 429,
+   "sha256": "05419f1167b10bbf641b5c96b66f9dd18002d545d4c0588d4145afa42a723d3b",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/05419f1167b10bbf641b5c96b66f9dd1.bin",
+     "size": 429,
+     "sha256": "05419f1167b10bbf641b5c96b66f9dd18002d545d4c0588d4145afa42a723d3b"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/resources/ore_silica.json",
+   "size": 418,
+   "sha256": "b135b5523c71c919a59debd176ffddc7bf91aeac697b63049a374ebc28f79827",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/b135b5523c71c919a59debd176ffddc7.bin",
+     "size": 418,
+     "sha256": "b135b5523c71c919a59debd176ffddc7bf91aeac697b63049a374ebc28f79827"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/resources/ore_titanium.json",
+   "size": 413,
+   "sha256": "6e72a9549a78f8fc265a817e5151a27cc087c4ee30fa074aef0693c5751aff2c",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/6e72a9549a78f8fc265a817e5151a27c.bin",
+     "size": 413,
+     "sha256": "6e72a9549a78f8fc265a817e5151a27cc087c4ee30fa074aef0693c5751aff2c"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/station_modules/Airlock.json",
+   "size": 3324,
+   "sha256": "123deed0f4a7b3e29911e8b6abcb1fe30282525a454e4afcfeddda5b4293b647",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b45/123deed0f4a7b3e29911e8b6abcb1fe3.bin",
+     "size": 3324,
+     "sha256": "123deed0f4a7b3e29911e8b6abcb1fe30282525a454e4afcfeddda5b4293b647"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/station_modules/Cargo bay.json",
+   "size": 4073,
+   "sha256": "da37cc2dd31a367d60d972040489044443560717b86d82cc05223cd57704cb97",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b45/da37cc2dd31a367d60d9720404890444.bin",
+     "size": 4073,
+     "sha256": "da37cc2dd31a367d60d972040489044443560717b86d82cc05223cd57704cb97"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/station_modules/Corridor (detailed).json",
+   "size": 771,
+   "sha256": "3851a1901430b57facec2f50de597a74b3d408d85a7382805d15d4fd4b7eda2a",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b45/3851a1901430b57facec2f50de597a74.bin",
+     "size": 771,
+     "sha256": "3851a1901430b57facec2f50de597a74b3d408d85a7382805d15d4fd4b7eda2a"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/station_modules/Corridor corner.json",
+   "size": 1329,
+   "sha256": "cafa320f86e0b48fb7d2c7cb34027f00a6fefe59abf9cf54d7379c44a98a7246",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b45/cafa320f86e0b48fb7d2c7cb34027f00.bin",
+     "size": 1329,
+     "sha256": "cafa320f86e0b48fb7d2c7cb34027f00a6fefe59abf9cf54d7379c44a98a7246"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/station_modules/Corridor cross.json",
+   "size": 992,
+   "sha256": "b70ed41ff6886ab66caa570df438f808338253a57fc46998083dc350db7d906b",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b45/b70ed41ff6886ab66caa570df438f808.bin",
+     "size": 992,
+     "sha256": "b70ed41ff6886ab66caa570df438f808338253a57fc46998083dc350db7d906b"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/station_modules/Corridor T.json",
+   "size": 1149,
+   "sha256": "8715644bc3a1c9b336e28a36c5048e34b1c7483e0a10aa620eb469912e0dfbd3",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b45/8715644bc3a1c9b336e28a36c5048e34.bin",
+     "size": 1149,
+     "sha256": "8715644bc3a1c9b336e28a36c5048e34b1c7483e0a10aa620eb469912e0dfbd3"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/station_modules/Corridor.json",
+   "size": 1345,
+   "sha256": "601e2354574c2b001adb9abec16eb0cb1c7d51d60ee116c1156cf426339629f3",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b45/601e2354574c2b001adb9abec16eb0cb.bin",
+     "size": 1345,
+     "sha256": "601e2354574c2b001adb9abec16eb0cb1c7d51d60ee116c1156cf426339629f3"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/station_modules/Crew quarters.json",
+   "size": 3149,
+   "sha256": "92cb4677fc4a10368816fb6c0dc55f8463df93fee046c4fd21577f793125c817",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b45/92cb4677fc4a10368816fb6c0dc55f84.bin",
+     "size": 3149,
+     "sha256": "92cb4677fc4a10368816fb6c0dc55f8463df93fee046c4fd21577f793125c817"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/station_modules/Docking arm.json",
+   "size": 2383,
+   "sha256": "8ad1f4257cde17ebe815f87454db2ffd53a769f32e9e66e0b1d701e4d37ac9e8",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b45/8ad1f4257cde17ebe815f87454db2ffd.bin",
+     "size": 2383,
+     "sha256": "8ad1f4257cde17ebe815f87454db2ffd53a769f32e9e66e0b1d701e4d37ac9e8"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/station_modules/End cap with door.json",
+   "size": 1124,
+   "sha256": "3476192969e4ef9159af0595aadfeb24adb162ca9dd682f916b6ea18bced1579",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b45/3476192969e4ef9159af0595aadfeb24.bin",
+     "size": 1124,
+     "sha256": "3476192969e4ef9159af0595aadfeb24adb162ca9dd682f916b6ea18bced1579"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/station_modules/End cap.json",
+   "size": 461,
+   "sha256": "524f52e1e2d403b4b2a58300fa7b5b8a43a13ea0a610ea75961821ecdc8dc8d7",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b45/524f52e1e2d403b4b2a58300fa7b5b8a.bin",
+     "size": 461,
+     "sha256": "524f52e1e2d403b4b2a58300fa7b5b8a43a13ea0a610ea75961821ecdc8dc8d7"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/station_modules/Hangar bay.json",
+   "size": 3636,
+   "sha256": "0772492e3ee5e942a8ac1f5ce2ac47062aed60f254a93dd3bf41ad4dbb37806f",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b45/0772492e3ee5e942a8ac1f5ce2ac4706.bin",
+     "size": 3636,
+     "sha256": "0772492e3ee5e942a8ac1f5ce2ac47062aed60f254a93dd3bf41ad4dbb37806f"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/station_modules/Observation room.json",
+   "size": 3966,
+   "sha256": "72f9e45a58d2222b4ccd7fd6fc2d031e1cf0dab08c542a1753383573e0e9e898",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b45/72f9e45a58d2222b4ccd7fd6fc2d031e.bin",
+     "size": 3966,
+     "sha256": "72f9e45a58d2222b4ccd7fd6fc2d031e1cf0dab08c542a1753383573e0e9e898"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/station_modules/Power room.json",
+   "size": 2148,
+   "sha256": "27ab17f6a391241dbc8d0b2ae478493cba178b1f5788a4153f41919f194dc870",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b45/27ab17f6a391241dbc8d0b2ae478493c.bin",
+     "size": 2148,
+     "sha256": "27ab17f6a391241dbc8d0b2ae478493cba178b1f5788a4153f41919f194dc870"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/station_modules/Promenade.json",
+   "size": 1753,
+   "sha256": "926a0cc1581242d6a8bd51bf2eceb2dbaf9dd8c35d6a20eb4500275b7a8ef23a",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b45/926a0cc1581242d6a8bd51bf2eceb2db.bin",
+     "size": 1753,
+     "sha256": "926a0cc1581242d6a8bd51bf2eceb2dbaf9dd8c35d6a20eb4500275b7a8ef23a"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/station_modules/Reactor room.json",
+   "size": 4530,
+   "sha256": "94538150b3899bf5bde909a26d54384b86200cf0f468efc63a766fd5a38c4a13",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b45/94538150b3899bf5bde909a26d54384b.bin",
+     "size": 4530,
+     "sha256": "94538150b3899bf5bde909a26d54384b86200cf0f468efc63a766fd5a38c4a13"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/station_modules/Room.json",
+   "size": 4657,
+   "sha256": "7d2dc1fa3f985fc299d13d8773997bccf67f9bcd935d0c90e054112c887260b7",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b45/7d2dc1fa3f985fc299d13d8773997bcc.bin",
+     "size": 4657,
+     "sha256": "7d2dc1fa3f985fc299d13d8773997bccf67f9bcd935d0c90e054112c887260b7"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/station_modules/Small hangar.json",
+   "size": 2587,
+   "sha256": "80c154c41b2ea8f15d11d76fc004439429fe98dc29960435bb78b56c952f6cf1",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b45/80c154c41b2ea8f15d11d76fc0044394.bin",
+     "size": 2587,
+     "sha256": "80c154c41b2ea8f15d11d76fc004439429fe98dc29960435bb78b56c952f6cf1"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/station_modules/Solar array.json",
+   "size": 2001,
+   "sha256": "1f0c4541c010d1aa9b162a7562e2b2e7fb81c4a412bae41c2a39aaecb70bb8c5",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b45/1f0c4541c010d1aa9b162a7562e2b2e7.bin",
+     "size": 2001,
+     "sha256": "1f0c4541c010d1aa9b162a7562e2b2e7fb81c4a412bae41c2a39aaecb70bb8c5"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/station_modules/Stairwell.json",
+   "size": 2375,
+   "sha256": "608143b43cf67981b7513cd2c557df058d21da9f743d9d718fb67a68a11c67db",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b45/608143b43cf67981b7513cd2c557df05.bin",
+     "size": 2375,
+     "sha256": "608143b43cf67981b7513cd2c557df058d21da9f743d9d718fb67a68a11c67db"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/station_modules/Window cap.json",
+   "size": 1336,
+   "sha256": "6a97726933ca5832daeedcd640b1feef69edd3b4b7a9140654ffebd8abca159a",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b45/6a97726933ca5832daeedcd640b1feef.bin",
+     "size": 1336,
+     "sha256": "6a97726933ca5832daeedcd640b1feef69edd3b4b7a9140654ffebd8abca159a"
+    }
+   ]
+  },
+  {
+   "path": "Deckplate/Data/store/store.json",
+   "size": 2136,
+   "sha256": "5e42b22d76f9373dedf4cfe1d40808b245974c4a0c731216283d34c0705489a7",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b46/5e42b22d76f9373dedf4cfe1d40808b2.bin",
+     "size": 2136,
+     "sha256": "5e42b22d76f9373dedf4cfe1d40808b245974c4a0c731216283d34c0705489a7"
+    }
+   ]
+  },
+  {
+   "path": "Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll",
+   "size": 2232688,
+   "sha256": "441a7ccee2f854352366e783fcb79fe895d09ad4c577689319e1a664f296c4a3",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/441a7ccee2f854352366e783fcb79fe8.bin",
+     "size": 2232688,
+     "sha256": "441a7ccee2f854352366e783fcb79fe895d09ad4c577689319e1a664f296c4a3"
+    }
+   ]
+  },
+  {
+   "path": "Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll",
+   "size": 2547080,
+   "sha256": "27c231d80310ea9005a6b0c17054f28887272723477e7292a7f9d63b6d1579ee",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/27c231d80310ea9005a6b0c17054f288.bin",
+     "size": 2547080,
+     "sha256": "27c231d80310ea9005a6b0c17054f28887272723477e7292a7f9d63b6d1579ee"
+    }
+   ]
+  },
+  {
+   "path": "Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll",
+   "size": 5799016,
+   "sha256": "ce49be4194706417ccdc57833aec478faa1e08646157688c879fe616d43abd65",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/ce49be4194706417ccdc57833aec478f.bin",
+     "size": 5799016,
+     "sha256": "ce49be4194706417ccdc57833aec478faa1e08646157688c879fe616d43abd65"
+    }
+   ]
+  },
+  {
+   "path": "Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll",
+   "size": 59832,
+   "sha256": "c719a5f165e4afe29e92a7eee9762c2e9f301a177885ab1ab8d2c7f57d4a86bf",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/c719a5f165e4afe29e92a7eee9762c2e.bin",
+     "size": 59832,
+     "sha256": "c719a5f165e4afe29e92a7eee9762c2e9f301a177885ab1ab8d2c7f57d4a86bf"
+    }
+   ]
+  },
+  {
+   "path": "Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll",
+   "size": 48568,
+   "sha256": "6d0e4395bc4d0ef501c3f7f7b4e63fa0cf2ab2ca80328560b7cb10e6d5a171cf",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/6d0e4395bc4d0ef501c3f7f7b4e63fa0.bin",
+     "size": 48568,
+     "sha256": "6d0e4395bc4d0ef501c3f7f7b4e63fa0cf2ab2ca80328560b7cb10e6d5a171cf"
+    }
+   ]
+  },
+  {
+   "path": "Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll",
+   "size": 1724856,
+   "sha256": "b8a3e31a6c2d401809bae7aa0fd29f49c2114eeccfba4dc5c7ac8eddbd4b7a98",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/b8a3e31a6c2d401809bae7aa0fd29f49.bin",
+     "size": 1724856,
+     "sha256": "b8a3e31a6c2d401809bae7aa0fd29f49c2114eeccfba4dc5c7ac8eddbd4b7a98"
+    }
+   ]
+  },
+  {
+   "path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_api_dump.dll",
+   "size": 8161680,
+   "sha256": "583db3d1acd76363f0f67d9da414dd147ca9ffab4a47824027351b063fe66aea",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/583db3d1acd76363f0f67d9da414dd14.bin",
+     "size": 8161680,
+     "sha256": "583db3d1acd76363f0f67d9da414dd147ca9ffab4a47824027351b063fe66aea"
+    }
+   ]
+  },
+  {
+   "path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_api_dump.json",
+   "size": 13848,
+   "sha256": "9e55221c225dce4b5448bac7dadb7e39fd216f51354dde02e58f950f4a0dd80b",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/9e55221c225dce4b5448bac7dadb7e39.bin",
+     "size": 13848,
+     "sha256": "9e55221c225dce4b5448bac7dadb7e39fd216f51354dde02e58f950f4a0dd80b"
+    }
+   ]
+  },
+  {
+   "path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_crash_diagnostic.dll",
+   "size": 2890128,
+   "sha256": "8e080a40ac452c4b249b9060e2f4c208af9159afba9e75e91d1c55d85e387d04",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/8e080a40ac452c4b249b9060e2f4c208.bin",
+     "size": 2890128,
+     "sha256": "8e080a40ac452c4b249b9060e2f4c208af9159afba9e75e91d1c55d85e387d04"
+    }
+   ]
+  },
+  {
+   "path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_crash_diagnostic.json",
+   "size": 23055,
+   "sha256": "578bde354874789671dee1a96468c965619c9f3ba16cfa65f850e81a80674087",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/578bde354874789671dee1a96468c965.bin",
+     "size": 23055,
+     "sha256": "578bde354874789671dee1a96468c965619c9f3ba16cfa65f850e81a80674087"
+    }
+   ]
+  },
+  {
+   "path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_gfxreconstruct.dll",
+   "size": 8166288,
+   "sha256": "780c4bcae69a50e38181edfd20a58780fa02539f4ff302c8c4a0e2899ee7a0cb",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/780c4bcae69a50e38181edfd20a58780.bin",
+     "size": 8166288,
+     "sha256": "780c4bcae69a50e38181edfd20a58780fa02539f4ff302c8c4a0e2899ee7a0cb"
+    }
+   ]
+  },
+  {
+   "path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_gfxreconstruct.json",
+   "size": 28099,
+   "sha256": "71d4e243a2af74874f4f61378bdfe3753cb01ce5eb9b98400d83612bf882a815",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/71d4e243a2af74874f4f61378bdfe375.bin",
+     "size": 28099,
+     "sha256": "71d4e243a2af74874f4f61378bdfe3753cb01ce5eb9b98400d83612bf882a815"
+    }
+   ]
+  },
+  {
+   "path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_profiles.dll",
+   "size": 1485200,
+   "sha256": "9682f7f508855980b9c31147493c962d43a0798c4596870cd7c5dee009859ea2",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/9682f7f508855980b9c31147493c962d.bin",
+     "size": 1485200,
+     "sha256": "9682f7f508855980b9c31147493c962d43a0798c4596870cd7c5dee009859ea2"
+    }
+   ]
+  },
+  {
+   "path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_profiles.json",
+   "size": 66696,
+   "sha256": "6095c28691757e083a8c1bef3c69ca76a8b5017e21acaf55d1bc7e82221a0fbe",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/6095c28691757e083a8c1bef3c69ca76.bin",
+     "size": 66696,
+     "sha256": "6095c28691757e083a8c1bef3c69ca76a8b5017e21acaf55d1bc7e82221a0fbe"
+    }
+   ]
+  },
+  {
+   "path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_shader_object.dll",
+   "size": 415632,
+   "sha256": "7026da236cecadd40b6a1723d0881349d9471592d98cabd60994f99dc2db3e53",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/7026da236cecadd40b6a1723d0881349.bin",
+     "size": 415632,
+     "sha256": "7026da236cecadd40b6a1723d0881349d9471592d98cabd60994f99dc2db3e53"
+    }
+   ]
+  },
+  {
+   "path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_shader_object.json",
+   "size": 4455,
+   "sha256": "18ecafc9a65e1b7af8cd0e36dc936026cdb3aed333c4ea5a7c17d6d9465cfaf4",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/18ecafc9a65e1b7af8cd0e36dc936026.bin",
+     "size": 4455,
+     "sha256": "18ecafc9a65e1b7af8cd0e36dc936026cdb3aed333c4ea5a7c17d6d9465cfaf4"
+    }
+   ]
+  },
+  {
+   "path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_synchronization2.dll",
+   "size": 397192,
+   "sha256": "485eb9b7f0320bd1af3af03dbe3a052d6f5e9cda14496bbe1a062d626d501eae",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/485eb9b7f0320bd1af3af03dbe3a052d.bin",
+     "size": 397192,
+     "sha256": "485eb9b7f0320bd1af3af03dbe3a052d6f5e9cda14496bbe1a062d626d501eae"
+    }
+   ]
+  },
+  {
+   "path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_synchronization2.json",
+   "size": 1910,
+   "sha256": "a1e980a24be9a16a826b00c27d61b85ee0e2e17226dc9c4e8eec031879e5f26a",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/a1e980a24be9a16a826b00c27d61b85e.bin",
+     "size": 1910,
+     "sha256": "a1e980a24be9a16a826b00c27d61b85ee0e2e17226dc9c4e8eec031879e5f26a"
+    }
+   ]
+  },
+  {
+   "path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_validation.dll",
+   "size": 19509136,
+   "sha256": "27fc6a4ca52244f18337a652db638865abd679f6e1d129bf4770fd3e6c4f1a60",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/27fc6a4ca52244f18337a652db638865.bin",
+     "size": 19509136,
+     "sha256": "27fc6a4ca52244f18337a652db638865abd679f6e1d129bf4770fd3e6c4f1a60"
+    }
+   ]
+  },
+  {
+   "path": "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_validation.json",
+   "size": 95917,
+   "sha256": "5c464b84457776d92a674de506f7b7a489294583a7d7609f78fcc52bc4406d09",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/5c464b84457776d92a674de506f7b7a4.bin",
+     "size": 95917,
+     "sha256": "5c464b84457776d92a674de506f7b7a489294583a7d7609f78fcc52bc4406d09"
+    }
+   ]
+  },
+  {
+   "path": "Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64/WinPixEventRuntime.dll",
+   "size": 69056,
+   "sha256": "f5f6f69210cc958b92285ff444e2ef48f5c46b4d6470b07960739dbcb6554b54",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/f5f6f69210cc958b92285ff444e2ef48.bin",
+     "size": 69056,
+     "sha256": "f5f6f69210cc958b92285ff444e2ef48f5c46b4d6470b07960739dbcb6554b54"
+    }
+   ]
+  },
+  {
+   "path": "Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll",
+   "size": 858152,
+   "sha256": "e6ae545b31a5453f1b1002d434cc802a6088cf05c5faa414d7ebe00264161506",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/e6ae545b31a5453f1b1002d434cc802a.bin",
+     "size": 858152,
+     "sha256": "e6ae545b31a5453f1b1002d434cc802a6088cf05c5faa414d7ebe00264161506"
+    }
+   ]
+  },
+  {
+   "path": "Engine/Config/StagedBuild_Deckplate.ini",
+   "size": 3,
+   "sha256": "f1945cd6c19e56b3c1c78943ef5ec18116907a4ca1efc40a57d48ab1db7adfc5",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/f1945cd6c19e56b3c1c78943ef5ec181.bin",
+     "size": 3,
+     "sha256": "f1945cd6c19e56b3c1c78943ef5ec18116907a4ca1efc40a57d48ab1db7adfc5"
+    }
+   ]
+  },
+  {
+   "path": "Engine/Content/Renderer/TessellationTable.bin",
+   "size": 259568,
+   "sha256": "edc4f3b628a139c5e185bbaeca661c95c1f427368d3b92892c5cff36c56dd941",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/edc4f3b628a139c5e185bbaeca661c95.bin",
+     "size": 259568,
+     "sha256": "edc4f3b628a139c5e185bbaeca661c95c1f427368d3b92892c5cff36c56dd941"
+    }
+   ]
+  },
+  {
+   "path": "Engine/Content/Slate/Cursor/invisible.cur",
+   "size": 326,
+   "sha256": "fef3980fa567e9c45d5d8dcaa432a2c1a3f3bb17fe67d7ab198164f56c142aa1",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/fef3980fa567e9c45d5d8dcaa432a2c1.bin",
+     "size": 326,
+     "sha256": "fef3980fa567e9c45d5d8dcaa432a2c1a3f3bb17fe67d7ab198164f56c142aa1"
+    }
+   ]
+  },
+  {
+   "path": "Engine/Content/SlateDebug/Fonts/LastResort.tps",
+   "size": 930,
+   "sha256": "0f775fa99d05e21d43d2d06d55982b23dcdccdb512a9a5a07aff674f212c41b8",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/0f775fa99d05e21d43d2d06d55982b23.bin",
+     "size": 930,
+     "sha256": "0f775fa99d05e21d43d2d06d55982b23dcdccdb512a9a5a07aff674f212c41b8"
+    }
+   ]
+  },
+  {
+   "path": "Engine/Content/SlateDebug/Fonts/LastResort.ttf",
+   "size": 5395052,
+   "sha256": "fff0f8de0b868b964950fe97c9b60f893e9bc85a4f90b3629c5693db058b97b9",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/fff0f8de0b868b964950fe97c9b60f89.bin",
+     "size": 5395052,
+     "sha256": "fff0f8de0b868b964950fe97c9b60f893e9bc85a4f90b3629c5693db058b97b9"
+    }
+   ]
+  },
+  {
+   "path": "Engine/Extras/GPUDumpViewer/GPUDumpViewer.html",
+   "size": 195428,
+   "sha256": "eb599b5171e99d7c2e35732abf9525baeb39b9c2ac86619522f307c57cc90384",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/eb599b5171e99d7c2e35732abf9525ba.bin",
+     "size": 195428,
+     "sha256": "eb599b5171e99d7c2e35732abf9525baeb39b9c2ac86619522f307c57cc90384"
+    }
+   ]
+  },
+  {
+   "path": "Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.bat",
+   "size": 879,
+   "sha256": "e8f7ef9c88697041bd87902b76e52558979ca866c7450b1da108a94a027f441b",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/e8f7ef9c88697041bd87902b76e52558.bin",
+     "size": 879,
+     "sha256": "e8f7ef9c88697041bd87902b76e52558979ca866c7450b1da108a94a027f441b"
+    }
+   ]
+  },
+  {
+   "path": "Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.sh",
+   "size": 2165,
+   "sha256": "1b222b5d5aad6dd9b5b9f0a1c72d38635149540f2c7a368600ec76c1d304390a",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/1b222b5d5aad6dd9b5b9f0a1c72d3863.bin",
+     "size": 2165,
+     "sha256": "1b222b5d5aad6dd9b5b9f0a1c72d38635149540f2c7a368600ec76c1d304390a"
+    }
+   ]
+  },
+  {
+   "path": "Engine/Extras/Redist/en-us/vc_redist.arm64.exe",
+   "size": 11751688,
+   "sha256": "ebc1b8dc6731b2c7e791dd619aba19d5554b9e678364f3c2a35f125baafc0f54",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/ebc1b8dc6731b2c7e791dd619aba19d5.bin",
+     "size": 11751688,
+     "sha256": "ebc1b8dc6731b2c7e791dd619aba19d5554b9e678364f3c2a35f125baafc0f54"
+    }
+   ]
+  },
+  {
+   "path": "Engine/Extras/Redist/en-us/vc_redist.x64.exe",
+   "size": 18569648,
+   "sha256": "6ffdeeff6aae9f5dcd52217571b2c2a47de367af8aa3db953542bf25c4c29a0d",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/6ffdeeff6aae9f5dcd52217571b2c2a4.bin",
+     "size": 18569648,
+     "sha256": "6ffdeeff6aae9f5dcd52217571b2c2a47de367af8aa3db953542bf25c4c29a0d"
+    }
+   ]
+  },
+  {
+   "path": "Engine/Plugins/NNE/NNERuntimeORT/Binaries/ThirdParty/Onnxruntime/Win64/onnxruntime.dll",
+   "size": 17339384,
+   "sha256": "eacc4d935137d67ab0cc1b896472d1de551dfc6545ed9ad74ab842400272e036",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/eacc4d935137d67ab0cc1b896472d1de.bin",
+     "size": 17339384,
+     "sha256": "eacc4d935137d67ab0cc1b896472d1de551dfc6545ed9ad74ab842400272e036"
+    }
+   ]
+  },
+  {
+   "path": "Updater/update.ps1",
+   "size": 14586,
+   "sha256": "718208ee7a3ac2e0bbb90b4b2a4c0360283978498a8bc047f22be18944daef2a",
+   "parts": [
+    {
+     "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b36/718208ee7a3ac2e0bbb90b4b2a4c0360.bin",
+     "size": 14586,
+     "sha256": "718208ee7a3ac2e0bbb90b4b2a4c0360283978498a8bc047f22be18944daef2a"
+    }
+   ]
+  }
+ ]
+}
