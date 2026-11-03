@@ -1,13 +1,13 @@
 {
- "version": "0.5.0+58",
- "manifest": "manifests/0.5.0-b58.json",
- "created": "2026-11-03T15:21:06",
- "notes": "Keypad door locks (codes save with the design), INFO pages on wall screens, pressure-suit colourways in the creator, the helmet visor overlay.",
- "totalBytes": 11293532921,
+ "version": "0.5.0+59",
+ "manifest": "manifests/0.5.0-b59.json",
+ "created": "2026-11-03T15:51:06",
+ "notes": "Free roam in space: climb out of any ship in space onto a spacewalk at its speed; suit jets and an O2 tank for everyone; a craftable EVA Jetpack for real thrust (Shift to burst).",
+ "totalBytes": 11293535548,
  "launcher": {
   "version": "1.0.1",
   "size": 82228450,
   "sha256": "f34b080a2f7936f046cd871c8ed4ba48a110ce87530af44db3ef4bb6bee01df1",
-  "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b58/DeckplateLauncher-Setup-1.0.1.exe"
+  "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b59/DeckplateLauncher-Setup-1.0.1.exe"
  }
 }
