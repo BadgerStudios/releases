@@ -1,13 +1,13 @@
 {
- "version": "0.5.0+55",
- "manifest": "manifests/0.5.0-b55.json",
- "created": "2026-11-03T13:51:18",
- "notes": "Builder rounds 4 and 5: the Advanced layout (budget bar, outliner, details typed in, pick by kind / touching / room / all, align and distribute, arrows move the picked parts, gizmo and measure, mirror plane, stress view, hide hull) and the Simple layout (purpose tiles, word sliders, one-sentence helpers, colours, rooms in plain words, FLY IT).",
- "totalBytes": 11293427797,
+ "version": "0.5.0+56",
+ "manifest": "manifests/0.5.0-b56.json",
+ "created": "2026-11-03T14:21:59",
+ "notes": "Builder round 6: advisor TAKE A ... fixes, launch check (BEFORE IT FLIES), room names with nameplates shown on door panels, cost line before placing, kits (Door with panel) and a KITS chip, START FROM templates, the Simple tutorial, controller support, other builders see your hologram.",
+ "totalBytes": 11293485478,
  "launcher": {
   "version": "1.0.1",
   "size": 82228450,
   "sha256": "f34b080a2f7936f046cd871c8ed4ba48a110ce87530af44db3ef4bb6bee01df1",
-  "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b55/DeckplateLauncher-Setup-1.0.1.exe"
+  "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b56/DeckplateLauncher-Setup-1.0.1.exe"
  }
 }
