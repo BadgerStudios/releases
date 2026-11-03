@@ -1,13 +1,13 @@
 {
- "version": "0.5.0+48",
- "manifest": "manifests/0.5.0-b48.json",
- "created": "2026-11-02T18:47:39",
- "notes": "Button panels: 4- and 8-button panels and a switch, wired (a data line from each button) or programmed (builder: PROGRAM AIMED) to doors, joints, lights, breakers, the anchor, hangar doors, seal and other panels; lights can be switched off by hand; doors, lights and boards gained a data socket.",
- "totalBytes": 11291737580,
+ "version": "0.5.0+49",
+ "manifest": "manifests/0.5.0-b49.json",
+ "created": "2026-11-02T20:18:12",
+ "notes": "Wall touchscreens: door panels (OPEN/CLOSE, air both sides, airlock cycle) and wall screens with DOOR / LIGHTS / SHIP / CONTROLS tabs; hold F and click to focus on any built screen and touch it; screens chain data to the next one along.",
+ "totalBytes": 11292864561,
  "launcher": {
   "version": "1.0.1",
   "size": 82228450,
   "sha256": "f34b080a2f7936f046cd871c8ed4ba48a110ce87530af44db3ef4bb6bee01df1",
-  "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b48/DeckplateLauncher-Setup-1.0.1.exe"
+  "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b49/DeckplateLauncher-Setup-1.0.1.exe"
  }
 }
