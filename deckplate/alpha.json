@@ -1,13 +1,13 @@
 {
- "version": "0.5.0+50",
- "manifest": "manifests/0.5.0-b50.json",
- "created": "2026-11-02T22:18:39",
- "notes": "Signs and holograms (words on any part, face/size/colour/glow/holo), door locks, yellow and red alert with lights and klaxon, an ALERTS tab, screen boot-up and damage flicker, hover and smooth zoom on touch, a data tap, airlock panel advice.",
- "totalBytes": 11292934358,
+ "version": "0.5.0+51",
+ "manifest": "manifests/0.5.0-b51.json",
+ "created": "2026-11-02T23:37:42",
+ "notes": "Builder feel: first person while building, furniture stands upright and screens hang on walls. The pressure suit: H closes the helmet and you wear the sci-fi trooper kit by suit tier; it closes itself in bad air. Market info moved to M.",
+ "totalBytes": 11292947990,
  "launcher": {
   "version": "1.0.1",
   "size": 82228450,
   "sha256": "f34b080a2f7936f046cd871c8ed4ba48a110ce87530af44db3ef4bb6bee01df1",
-  "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b50/DeckplateLauncher-Setup-1.0.1.exe"
+  "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b51/DeckplateLauncher-Setup-1.0.1.exe"
  }
 }
