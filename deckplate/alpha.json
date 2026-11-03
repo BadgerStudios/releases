@@ -1,13 +1,13 @@
 {
- "version": "0.5.0+53",
- "manifest": "manifests/0.5.0-b53.json",
- "created": "2026-11-03T02:40:39",
- "notes": "Builder round 2: settings gear and BUILDER tab (keys, snapping, camera, overlays, accessibility, simple/advanced switch), hologram glides onto snaps, grid drawn on the landing face, turn axis shown, Alt places freely, ROOMS list with habitable verdicts and show-gap, delete asks before opening a room or cutting power, words and button programs undoable.",
- "totalBytes": 11293151909,
+ "version": "0.5.0+54",
+ "manifest": "manifests/0.5.0-b54.json",
+ "created": "2026-11-03T13:00:02",
+ "notes": "Builder round 3: the catalog (projects, favourites, recent, search, duplicate, file under project, your own modules), parts clipboard (Ctrl+T / Shift+T), replace with brush, paint bucket, ship photo and photo-as-picture, TURN 15.",
+ "totalBytes": 11293236085,
  "launcher": {
   "version": "1.0.1",
   "size": 82228450,
   "sha256": "f34b080a2f7936f046cd871c8ed4ba48a110ce87530af44db3ef4bb6bee01df1",
-  "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b53/DeckplateLauncher-Setup-1.0.1.exe"
+  "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b54/DeckplateLauncher-Setup-1.0.1.exe"
  }
 }
