@@ -1,13 +1,13 @@
 {
- "version": "0.5.0+63",
- "manifest": "manifests/0.5.0-b63.json",
- "created": "2026-11-03T20:39:22",
- "notes": "Guilds: clans, crews, corporations or your own word, run from the launcher (Guild page) - tag over your head and in chat, guild chat (/gu) shared with the launcher, message of the day on arrival. Character creator: 9 more look sliders.",
- "totalBytes": 11293936827,
+ "version": "0.5.0+66",
+ "manifest": "manifests/0.5.0-b66.json",
+ "created": "2026-11-04T01:07:28",
+ "notes": "Guild wars and alliances; interdiction fields and running cold; heat, cold, radiation and storms; ship races, a free-fire arena and fishing; the auction house; sound captions and a high-contrast HUD; photo mode (F9) and spectating.",
+ "totalBytes": 11302997389,
  "launcher": {
-  "version": "1.2.0",
-  "size": 82261112,
-  "sha256": "bb515a3411c5d899a60d4dff69eaa89405f148390adb23878e4665df1659eeca",
-  "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b63/DeckplateLauncher-Setup-1.2.0.exe"
+  "version": "1.2.1",
+  "size": 82262082,
+  "sha256": "c6bd61c1644fc7c59b4910f22b0544720bcddcdb7bce845e10fbbded8ca2ac18",
+  "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b66/DeckplateLauncher-Setup-1.2.1.exe"
  }
 }
