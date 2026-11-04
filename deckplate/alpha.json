@@ -1,13 +1,13 @@
 {
- "version": "0.5.0+59",
- "manifest": "manifests/0.5.0-b59.json",
- "created": "2026-11-03T15:51:06",
- "notes": "Free roam in space: climb out of any ship in space onto a spacewalk at its speed; suit jets and an O2 tank for everyone; a craftable EVA Jetpack for real thrust (Shift to burst).",
- "totalBytes": 11293535548,
+ "version": "0.5.0+61",
+ "manifest": "manifests/0.5.0-b61.json",
+ "created": "2026-11-03T18:14:16",
+ "notes": "Accounts and the new launcher: sign up or log in, profiles, friends, parties, live DMs, leaderboards and achievements; your captain is tied to your account. Staff tools: inspect, mute, temp-ban, ban, fix goods, announcements, player reports, a cheat watch. The law: crimes raise your wanted level and fines, settlements and stations are armistice zones, police and patrols come for the wanted, bounty hunters get paid, custody, bail, pay fines at markets. Groups: launcher party = in-game group, markers, leader waypoint, crew share. Food and water. Exploration: scanner (X) and discoverable sites with survey data. Wildlife you can hunt (placeholder bodies). Crash reports (can be turned off).",
+ "totalBytes": 11293836796,
  "launcher": {
-  "version": "1.0.1",
-  "size": 82228450,
-  "sha256": "f34b080a2f7936f046cd871c8ed4ba48a110ce87530af44db3ef4bb6bee01df1",
-  "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b59/DeckplateLauncher-Setup-1.0.1.exe"
+  "version": "1.1.0",
+  "size": 82244221,
+  "sha256": "2a70fbd4916c2cdffd958a2a828a3730e20f3c8d21e0d010b3fbfe93eece1fe6",
+  "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b61/DeckplateLauncher-Setup-1.1.0.exe"
  }
 }
