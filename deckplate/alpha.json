@@ -1,13 +1,13 @@
 {
- "version": "0.5.0+62",
- "manifest": "manifests/0.5.0-b62.json",
- "created": "2026-11-03T18:59:10",
- "notes": "Smuggling and customs: contraband from fences at derelicts sells for 3x in settlement back rooms, if customs does not catch you. Bank (deposit, withdraw), loans (up to 5000, due in 3 days) and a player exchange (ExchangeSell/List/Buy/Cancel) at any market. NPC traders fly between nav points round you in space (firing on them is piracy). Ore deposits in every asteroid belt to mine on a spacewalk. Boards want survey data and hides; the dealer sells the pod and skiff hotrods and the Drover. Fixes: customs, exploration ground sites.",
- "totalBytes": 11293908786,
+ "version": "0.5.0+63",
+ "manifest": "manifests/0.5.0-b63.json",
+ "created": "2026-11-03T20:39:22",
+ "notes": "Guilds: clans, crews, corporations or your own word, run from the launcher (Guild page) - tag over your head and in chat, guild chat (/gu) shared with the launcher, message of the day on arrival. Character creator: 9 more look sliders.",
+ "totalBytes": 11293936827,
  "launcher": {
-  "version": "1.1.0",
-  "size": 82244221,
-  "sha256": "2a70fbd4916c2cdffd958a2a828a3730e20f3c8d21e0d010b3fbfe93eece1fe6",
-  "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b62/DeckplateLauncher-Setup-1.1.0.exe"
+  "version": "1.2.0",
+  "size": 82261112,
+  "sha256": "bb515a3411c5d899a60d4dff69eaa89405f148390adb23878e4665df1659eeca",
+  "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b63/DeckplateLauncher-Setup-1.2.0.exe"
  }
 }
