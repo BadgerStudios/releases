@@ -1,13 +1,13 @@
 {
- "version": "0.5.0+66",
- "manifest": "manifests/0.5.0-b66.json",
- "created": "2026-11-04T01:07:28",
- "notes": "Guild wars and alliances; interdiction fields and running cold; heat, cold, radiation and storms; ship races, a free-fire arena and fishing; the auction house; sound captions and a high-contrast HUD; photo mode (F9) and spectating.",
- "totalBytes": 11302997389,
+ "version": "0.5.0+68",
+ "manifest": "manifests/0.5.0-b68.json",
+ "created": "2026-11-04T23:27:19",
+ "notes": "Three suns and a moving solar system; a second star system through jump gates; atmospheric entry with heat and plasma; the story campaign and faction storylines; ship, weapon, machine and weather sounds; city crowds and air traffic; station traffic control; cargo crates you carry; a new home world seen from orbit; injuries (leg, arm, bleeding, concussion) and medkits that treat them; server anti-cheat hardening; account recovery codes and database backups.",
+ "totalBytes": 11645947907,
  "launcher": {
-  "version": "1.2.1",
-  "size": 82262082,
-  "sha256": "c6bd61c1644fc7c59b4910f22b0544720bcddcdb7bce845e10fbbded8ca2ac18",
-  "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b66/DeckplateLauncher-Setup-1.2.1.exe"
+  "version": "1.3.0",
+  "size": 82263229,
+  "sha256": "3a68ae64c9d21c8ce3e1670ec8315a35349b820d9ca7cc95b67e9900cde87eac",
+  "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b68/DeckplateLauncher-Setup-1.3.0.exe"
  }
 }
