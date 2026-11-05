@@ -1,13 +1,13 @@
 {
- "version": "0.5.0+68",
- "manifest": "manifests/0.5.0-b68.json",
- "created": "2026-11-04T23:27:19",
- "notes": "Three suns and a moving solar system; a second star system through jump gates; atmospheric entry with heat and plasma; the story campaign and faction storylines; ship, weapon, machine and weather sounds; city crowds and air traffic; station traffic control; cargo crates you carry; a new home world seen from orbit; injuries (leg, arm, bleeding, concussion) and medkits that treat them; server anti-cheat hardening; account recovery codes and database backups.",
- "totalBytes": 11645947907,
+ "version": "0.5.0+69",
+ "manifest": "manifests/0.5.0-b69.json",
+ "created": "2026-11-05T12:29:48",
+ "notes": "Visual overhaul begins: the Skiff starter gets a new grounded-industrial hull (extra plating, vents, rails and thrusters; chipped paint, grime and streaks baked per ship). Navigation lights on ships now strobe.",
+ "totalBytes": 11670794267,
  "launcher": {
   "version": "1.3.0",
   "size": 82263229,
   "sha256": "3a68ae64c9d21c8ce3e1670ec8315a35349b820d9ca7cc95b67e9900cde87eac",
-  "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b68/DeckplateLauncher-Setup-1.3.0.exe"
+  "url": "https://github.com/BadgerStudios/releases/releases/download/deckplate-v0.5.0-b69/DeckplateLauncher-Setup-1.3.0.exe"
  }
 }
